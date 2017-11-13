@@ -1,17 +1,10 @@
 import os
 import pickle
+import json
 from selenium import webdriver
 
 class SiteData():
-	def __init__(self, url, prod, prod_name, sale_price, reg_price, number_reviews, rating, pagination):
-		self.url = url
-		self.prod = prod
-		self.prod_name = prod_name
-		self.sale_price = sale_price
-		self.reg_price = reg_price
-		self.number_reviews = number_reviews
-		self.rating = rating
-		self.pagination = pagination
+	pass
 
 
 def pdir(moduleName):
@@ -28,12 +21,10 @@ def dump(d):
     with open(fileName, 'wb') as f:
         pickle.dump(d, f)
 
-def getData():
-
-
 fileName = 'data.pickle'
 d = load()
-clear = lambda: os.system('CLS')
+wclear = lambda: os.system('CLS')
+mclear = lambda: os.system('clear')
 driver = webdriver.PhantomJS()
 get = lambda url: driver.get(url)
 find = lambda css_selector: driver.find_elements_by_css_selector(css_selector)
