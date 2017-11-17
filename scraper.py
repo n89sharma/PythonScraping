@@ -30,10 +30,16 @@ cm.tags['product_name'] = './h6/a'
 cm.tags['regular_price'] = './a/span'
 
 hr = SiteData()
+hr.url = 'https://www.harryrosen.com/en/'
 hr.url = 'https://www.harryrosen.com/en/clothing/casual-wear/c/sweaters-knits'
+hr.click_path = [
+    {'by': 'XPATH', 'value': './a[@href=\'/en/clothing/c/clothing\']'},
+    {'by': 'XPATH', 'value': './a[@href=\'/en/clothing/c/casual-wear\']'}
+]
 hr.prod = 'hr-product-lister-grid-item-inner'
 hr.tag_type = 'XPATH'
-hr.next_page_button = '.icon.hr-icon-thick-chevron-right.next'
+hr.next_page_button = '//a[@class=\'icon hr-icon-thick-chevron-right next\']'
+hr.next_page_button = 'a.icon.hr-icon-thick-chevron-right.next'
 hr.tags = {}
 hr.tags['designer'] = './div[@class=\'hr-product-lister-grid-item-content-wp\']/h3'
 hr.tags['product_name'] = './div[@class=\'hr-product-lister-grid-item-content-wp\']/h4[1]'
@@ -42,6 +48,7 @@ hr.tags['regular_price'] = './div[@class=\'hr-product-lister-grid-item-content-w
 
 def get_page_data(site, driver):
 
+    print('getting page data')
     page_data = []
     prod_elements = driver.find_elements_by_class_name(site.prod)
     for prod_element in prod_elements:
@@ -66,20 +73,27 @@ def get_page_data(site, driver):
 
 def is_next_page_available(site, driver):
 
+    print('checking next page link')
     next_page_exists = False
     if site.next_page_button is not None:
         try:
-            next_page_button = WebDriverWait(driver, 10).until(expected_conditions.element_to_be_clickable(By.CSS_SELECTOR, site.next_page_button))
-            # next_page_button = driver.find_element_by_css_selector(site.next_page_button)
-            print('next button element found')            
-            next_page_exists = next_page_button.is_displayed() #and next_page_button.is_enabled()
-            print('next button displayed', next_page_exists)
-            next_page_button.click()
+            # next_page_links = driver.find_elements_by_xpath(site.next_page_button)
+            print(site.next_page_button)
+            next_page_links = driver.find_elements_by_css_selector(site.next_page_button)
+            visible_link = None
+            for link in next_page_links:
+                if link.is_displayed() and link.is_enabled() :
+                    visible_link = link
+                print(link, link.is_displayed(), link.is_enabled())
+            print('next page links found', len(next_page_links))
+            print('visible link', visible_link)
+            visible_link.click()
+            next_page_exists = True
         except Exception as e:
             next_page_exists = False
             print('exception thrown', e)
             
-    return next_page_exists
+    return next_page_exists, next_page_links
 
 def get_data(site):
 
@@ -90,10 +104,12 @@ def get_data(site):
     next_page_exists = True
     while next_page_exists:
         data.append(get_page_data(site, driver))
-        next_page_exists = is_next_page_available(site, driver)
+        next_page_exists, next_page_links = is_next_page_available(site, driver)
 
     driver.close()
     site.data = data
 
-get_data(hr)
+    return next_page_links
+
+next_page_links = get_data(hr)
 # print(hr.data)
