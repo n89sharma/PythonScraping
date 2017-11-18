@@ -1,0 +1,24 @@
+{
+  "url": "http://www.clubmonaco.ca/family/index.jsp?categoryId=12770913&size=16&cp=12266410.12280856.12770913&ab=ln_men_clothing_sweaters",
+  "click_path": [],
+  "target": {
+    "by": "class name",
+    "tag": "product-details"
+  },
+  "next_page_tag": {
+    "by": "",
+    "tag": ""
+  },
+  "tags": [
+    {
+      "key": "product_name",
+      "by": "xpath",
+      "tag": "./h6/a"
+    },
+    {
+      "key": "price",
+      "by": "xpath",
+      "tag": "./a/span"
+    }
+  ]
+}

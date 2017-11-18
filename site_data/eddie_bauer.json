@@ -1,0 +1,36 @@
+{
+  "url": "http://www.eddiebauer.ca/browse/sweaters/men/_/N-2774?cm_sp=sub-_-Men-_-Sweaters&currentNode=sweaters&tab=men&previousPage=GNAV",
+  "click_path": [],
+  "target": {
+    "by": "class name",
+    "tag": "preview-details"
+  },
+  "next_page_tag": {
+    "by": "",
+    "tag": ""
+  },
+  "tags": [
+    {
+      "key": "product_name",
+      "by": "class name",
+      "tag": "prd-name"
+    },
+    {
+      "key": "price",
+      "by": "xpath",
+      "tag": "./span"
+    },
+    {
+      "key": "reviews",
+      "by": "xpath",
+      "tag": "./div/span[1]"
+    },
+    {
+      "exclude": true,
+      "key": "rating",
+      "by": "xpath",
+      "tag": "./div/div/img",
+      "text_attribute": "data-averagerating"
+    }
+  ]
+}

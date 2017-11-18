@@ -1,115 +1,89 @@
+import json
+
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions
-
-class SiteData:
-    pass
-
-class Tags:
-    pass
-
-eb = SiteData()
-eb.url = 'http://www.eddiebauer.ca/browse/sweaters/men/_/N-2774?cm_sp=sub-_-Men-_-Sweaters&currentNode=sweaters&tab=men&previousPage=GNAV'
-eb.prod = 'preview-details'
-eb.tag_type = 'CSS'
-eb.tags = {}
-eb.tags['product_name'] = 'prd-name'
-eb.tags['regular_price'] = 'regular-price'
-eb.tags['sale_price'] = 'sale-price'
-eb.tags['reviews'] = 'footnote'
-eb.tags['rating'] = 'starRating'
-
-cm = SiteData()
-# cm.url = 'http://www.clubmonaco.ca/family/index.jsp?categoryId=12770913&ab=MLP_MSWG&size=99'
-cm.url = 'file:///Users/nik/Documents/development/PythonScraping/club_monaco/Men%20_%20Sweaters%20_%20Club%20Monaco%20Canada.htm'
-cm.prod = 'product-details'
-cm.tag_type = 'XPATH'
-cm.tags = {}
-cm.tags['product_name'] = './h6/a'
-cm.tags['regular_price'] = './a/span'
-
-hr = SiteData()
-hr.url = 'https://www.harryrosen.com/en/'
-hr.url = 'https://www.harryrosen.com/en/clothing/casual-wear/c/sweaters-knits'
-hr.click_path = [
-    {'by': 'XPATH', 'value': './a[@href=\'/en/clothing/c/clothing\']'},
-    {'by': 'XPATH', 'value': './a[@href=\'/en/clothing/c/casual-wear\']'}
-]
-hr.prod = 'hr-product-lister-grid-item-inner'
-hr.tag_type = 'XPATH'
-hr.next_page_button = '//a[@class=\'icon hr-icon-thick-chevron-right next\']'
-hr.next_page_button = 'a.icon.hr-icon-thick-chevron-right.next'
-hr.tags = {}
-hr.tags['designer'] = './div[@class=\'hr-product-lister-grid-item-content-wp\']/h3'
-hr.tags['product_name'] = './div[@class=\'hr-product-lister-grid-item-content-wp\']/h4[1]'
-hr.tags['regular_price'] = './div[@class=\'hr-product-lister-grid-item-content-wp\']/h4[2]/div[@class=\'price\']/div[@class=\'hr-product-price\']'
 
 
-def get_page_data(site, driver):
-
-    print('getting page data')
-    page_data = []
-    prod_elements = driver.find_elements_by_class_name(site.prod)
-    for prod_element in prod_elements:
-        row = {}
-
-        if site.tag_type == 'XPATH':
-            find = prod_element.find_element_by_xpath
-        elif site.tag_type == 'CSS':
-            find = prod_element.find_element_by_class_name
-
-        for (key, value) in site.tags.iteritems():
-            try:
-                element = find(value)
-                row[key] = element.text
-            except:
-                print('error in trying to find ', value)
-                row[key] = 'error - element not found'
-
-        page_data.append(row)
-    # print(page_data)
-    return page_data
-
-def is_next_page_available(site, driver):
-
-    print('checking next page link')
-    next_page_exists = False
-    if site.next_page_button is not None:
-        try:
-            # next_page_links = driver.find_elements_by_xpath(site.next_page_button)
-            print(site.next_page_button)
-            next_page_links = driver.find_elements_by_css_selector(site.next_page_button)
-            visible_link = None
-            for link in next_page_links:
-                if link.is_displayed() and link.is_enabled() :
-                    visible_link = link
-                print(link, link.is_displayed(), link.is_enabled())
-            print('next page links found', len(next_page_links))
-            print('visible link', visible_link)
-            visible_link.click()
-            next_page_exists = True
-        except Exception as e:
-            next_page_exists = False
-            print('exception thrown', e)
-            
-    return next_page_exists, next_page_links
-
-def get_data(site):
-
+class Scraper:
+    scraped_data = {}
+    can_go_to_next_page = True
     driver = webdriver.PhantomJS()
-    driver.get(site.url)
-    data = []
+    site_data = {}
 
-    next_page_exists = True
-    while next_page_exists:
-        data.append(get_page_data(site, driver))
-        next_page_exists, next_page_links = is_next_page_available(site, driver)
+    def __init__(self, site_data_map, max_pages=2, windowx=1920, windowy=1020, implicit_wait=5):
+        self.driver.set_window_size(windowx, windowy)
+        self.driver.implicitly_wait(implicit_wait)
+        self.max_pages = max_pages
+        self.current_page = 1
+        self.site_data_map = site_data_map
+        self.complete_data_set = {}
 
-    driver.close()
-    site.data = data
+    def run(self):
+        for org, site_data in self.site_data_map.items():
+            site_scraped_data = []
+            self.site_data = site_data
+            self.driver.get(site_data['url'])
+            self.reset_page()
+            while self.can_go_to_next_page:
+                site_scraped_data.extend(self.get_page_data())
+                self.is_page_available_and_within_target()
+            self.complete_data_set[org] = site_scraped_data
 
-    return next_page_links
+        self.driver.close()
 
-next_page_links = get_data(hr)
-# print(hr.data)
+    def get_page_data(self):
+        page_data = []
+        prod_elements = self.driver.find_elements(
+            by=self.site_data['target']['by'],
+            value=self.site_data['target']['tag'])
+        for prod_element in prod_elements:
+            row = {}
+            for tag_data in self.site_data['tags']:
+                key, by, tag = tag_data['key'], tag_data['by'], tag_data['tag']
+                element = self.get_element(by, tag, prod_element)
+                if element:
+                    if 'text_attribute' not in tag_data.keys():
+                        row[key] = element.text
+                    else:
+                        row[key] = element.get_attribute(tag_data['text_attribute'])
+            page_data.append(row)
+        return page_data
+
+    def get_element(self, by, value, element=None):
+        try:
+            if element:
+                return element.find_element(by, value)
+            else:
+                return self.driver.find_element(by, value)
+        except Exception as e:
+            print(e, "by: ", by, "value: ", value)
+            return None
+
+    def is_page_available_and_within_target(self):
+        is_page_available_and_within_target = False
+        by = self.site_data['next_page_tag']['by']
+        tag = self.site_data['next_page_tag']['tag']
+        if by and tag:
+            next_page_link = self.get_element(by, tag)
+            if next_page_link.is_displayed() and self.current_page < self.max_pages:
+                next_page_link.click()
+                self.current_page += 1
+                is_page_available_and_within_target = True
+        self.can_go_to_next_page = is_page_available_and_within_target
+        return is_page_available_and_within_target
+
+    def reset_page(self):
+        self.current_page = 1
+        self.can_go_to_next_page = True
+
+
+site_data_map = {
+    'eddie bauer': json.load(open('./site_data/eddie_bauer.json')),
+    'hary rosen': json.load(open('./site_data/hary_rosen.json')),
+    'club monaco': json.load(open('./site_data/club_monaco.json'))}
+
+site_data_map = {
+    'eddie bauer': json.load(open('./site_data/eddie_bauer.json'))}
+
+scraper = Scraper(site_data_map)
+scraper.run()
+print(scraper.complete_data_set)

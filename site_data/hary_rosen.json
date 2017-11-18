@@ -1,0 +1,38 @@
+{
+  "url": "https://www.harryrosen.com/en/clothing/casual-wear/c/sweaters-knits",
+  "click_path": [
+    {
+      "by": "xpath",
+      "value": "./a[@href='/en/clothing/c/clothing']"
+    },
+    {
+      "by": "xpath",
+      "value": "./a[@href='/en/clothing/c/casual-wear']"
+    }
+  ],
+  "target": {
+    "by": "xpath",
+    "tag": "//div[@class='hr-product-lister-grid-item-inner']"
+  },
+  "next_page_tag": {
+    "by": "css selector",
+    "tag": "a.icon.hr-icon-thick-chevron-right.next"
+  },
+  "tags": [
+    {
+      "key": "designer",
+      "by": "xpath",
+      "tag": "./div[@class='hr-product-lister-grid-item-content-wp']/h3"
+    },
+    {
+      "key": "product_name",
+      "by": "xpath",
+      "tag": "./div[@class='hr-product-lister-grid-item-content-wp']/h4[1]"
+    },
+    {
+      "key": "price",
+      "by": "xpath",
+      "tag": "./div[@class='hr-product-lister-grid-item-content-wp']/h4[2]/div[@class='price']/div[@class='hr-product-price']"
+    }
+  ]
+}
