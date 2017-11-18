@@ -1,3 +1,4 @@
+import glob
 import json
 
 from selenium import webdriver
@@ -9,25 +10,26 @@ class Scraper:
     driver = webdriver.PhantomJS()
     site_data = {}
 
-    def __init__(self, site_data_map, max_pages=2, windowx=1920, windowy=1020, implicit_wait=5):
+    def __init__(self, site_data_map, exclude_orgs=[], max_pages=2, windowx=1920, windowy=1020, implicit_wait=5):
         self.driver.set_window_size(windowx, windowy)
         self.driver.implicitly_wait(implicit_wait)
         self.max_pages = max_pages
         self.current_page = 1
         self.site_data_map = site_data_map
         self.complete_data_set = {}
+        self.exclude_orgs = exclude_orgs
 
     def run(self):
         for org, site_data in self.site_data_map.items():
-            site_scraped_data = []
-            self.site_data = site_data
-            self.driver.get(site_data['url'])
-            self.reset_page()
-            while self.can_go_to_next_page:
-                site_scraped_data.extend(self.get_page_data())
-                self.is_page_available_and_within_target()
-            self.complete_data_set[org] = site_scraped_data
-
+            if org not in self.exclude_orgs:
+                site_scraped_data = []
+                self.site_data = site_data
+                self.driver.get(site_data['url'])
+                self.reset_page()
+                while self.can_go_to_next_page:
+                    site_scraped_data.extend(self.get_page_data())
+                    self.is_page_available_and_within_target()
+                self.complete_data_set[org] = site_scraped_data
         self.driver.close()
 
     def get_page_data(self):
@@ -76,14 +78,11 @@ class Scraper:
         self.can_go_to_next_page = True
 
 
-site_data_map = {
-    'eddie bauer': json.load(open('./site_data/eddie_bauer.json')),
-    'hary rosen': json.load(open('./site_data/hary_rosen.json')),
-    'club monaco': json.load(open('./site_data/club_monaco.json'))}
+site_data_map = {}
+for file_path in glob.glob("./site_data/*.json"):
+    json_data = json.load(open(file_path))
+    site_data_map[json_data['organization']] = json_data
 
-site_data_map = {
-    'eddie bauer': json.load(open('./site_data/eddie_bauer.json'))}
-
-scraper = Scraper(site_data_map)
+scraper = Scraper(site_data_map=site_data_map, exclude_orgs=['Harry Rosen', 'Eddie Bauer'])
 scraper.run()
 print(scraper.complete_data_set)
