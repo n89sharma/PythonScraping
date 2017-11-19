@@ -10,7 +10,7 @@ class Scraper:
     driver = webdriver.PhantomJS()
     site_data = {}
 
-    def __init__(self, site_data_map, exclude_orgs=[], max_pages=2, windowx=1920, windowy=1020, implicit_wait=5):
+    def __init__(self, site_data_map, exclude_orgs=[], max_pages=2, windowx=1024, windowy=800, implicit_wait=5):
         self.driver.set_window_size(windowx, windowy)
         self.driver.implicitly_wait(implicit_wait)
         self.max_pages = max_pages
@@ -44,7 +44,7 @@ class Scraper:
                 element = self.get_element(by, tag, prod_element)
                 if element:
                     if 'text_attribute' not in tag_data.keys():
-                        row[key] = element.text
+                        row[key] = element.get_attribute("innerText")
                     else:
                         row[key] = element.get_attribute(tag_data['text_attribute'])
             page_data.append(row)
@@ -79,7 +79,7 @@ class Scraper:
 
 
 site_data_map = {}
-for file_path in glob.glob("./site_data/*.json"):
+for file_path in glob.glob("./site_data/banana_republic.json"):
     json_data = json.load(open(file_path))
     site_data_map[json_data['organization']] = json_data
 

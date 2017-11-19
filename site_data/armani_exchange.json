@@ -1,0 +1,25 @@
+{
+  "organization": "Armani Exchange",
+  "url": "https://www.armaniexchange.com/ca/men/sweaters",
+  "click_path": [],
+  "target": {
+    "by": "class name",
+    "tag": "info"
+  },
+  "next_page_tag": {
+    "by": "",
+    "tag": ""
+  },
+  "tags": [
+    {
+      "key": "price",
+      "by": "css selector",
+      "tag": "span.value"
+    },
+    {
+      "key": "name",
+      "by": "class name",
+      "tag": "title"
+    }
+  ]
+}

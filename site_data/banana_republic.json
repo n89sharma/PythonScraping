@@ -1,0 +1,25 @@
+{
+  "organization": "Banana Republic",
+  "url": "http://bananarepublic.gapcanada.ca/browse/category.do?cid=28660&mlink=5343,14228074,m_dp_cn_sweaters&clink=14228074",
+  "click_path": [],
+  "target": {
+    "by": "class name",
+    "tag": "product-card--text"
+  },
+  "next_page_tag": {
+    "by": "",
+    "tag": ""
+  },
+  "tags": [
+    {
+      "key": "product_name",
+      "by": "xpath",
+      "tag": "./a/div[@class='product-card--name']"
+    },
+    {
+      "key": "price",
+      "by": "xpath",
+      "tag": "./div/div[1]/div/div[@class='product-card-price product-card--regular']"
+    }
+  ]
+}
