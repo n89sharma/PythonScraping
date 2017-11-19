@@ -1,0 +1,30 @@
+{
+    "organization": "Le Chateau",
+    "url": "https://www.lechateau.com/style/jump/Sweaters+%26+Cardigans/category/catmfr20027;jsessionid=WYzVNn-_FU7fXb8NzG3jsGy_1bLtPtvvZQpP2bTylDkyEv3-dvex!465115366?repriceOrder=true",
+    "click_path": [],
+    "target": {
+      "by": "css selector",
+      "tag": "li.product.listingItem"
+    },
+    "next_page_tag": {
+      "by": "",
+      "tag": ""
+    },
+    "tags": [
+      {
+        "key": "product_name",
+        "by": "xpath",
+        "tag": "./h3/a"
+      },
+      {
+        "key": "original price",
+        "by": "xpath",
+        "tag": "./div[@class='prices']/a/span[@class='price old']"
+      },
+      {
+        "key": "sale price",
+        "by": "xpath",
+        "tag": "./div[@class='prices']/a/span[@class='price sale']"
+      }
+    ]
+  }

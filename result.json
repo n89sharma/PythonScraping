@@ -1,0 +1,5944 @@
+{
+    "Guess": [
+        {
+            "price": "CAD 108.00",
+            "product_name": "Fulham Camo Sweatshirt"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Waffle Knit Sweater"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Grunge Destroyed Sweater"
+        },
+        {
+            "price": "CAD 59.00",
+            "product_name": "Rush V-Neck Sweater"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Quilted Yoke Sweater"
+        },
+        {
+            "price": "CAD 108.00",
+            "product_name": "Ombre Sweater"
+        },
+        {
+            "price": "CAD 128.00",
+            "product_name": "Roy Longline Hoodie"
+        },
+        {
+            "price": "CAD 128.00",
+            "product_name": "Roy Fleece Hoodie"
+        },
+        {
+            "price": "CAD 128.00",
+            "product_name": "Neo Wildcat Camo Hoodie"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Fulham Leopard Pullover"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Raglan Longline Knit Sweater"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Reverse-Knit Turtleneck"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Roy Graphic Sweatshirt"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Roy Oversized Hoodie"
+        },
+        {
+            "price": "CAD 148.00",
+            "product_name": "Shawl Collar Sweater"
+        },
+        {
+            "price": "CAD 108.00",
+            "product_name": "Marled Zip Sweater"
+        },
+        {
+            "price": "CAD 148.00",
+            "product_name": "Shawl Collar Sweater"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Waffle Knit Sweater"
+        },
+        {
+            "price": "CAD 59.00",
+            "product_name": "Raid Faux-Suede Patch Sweater"
+        },
+        {
+            "price": "CAD 59.00",
+            "product_name": "Raid Faux-Suede Patch Sweater"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Marled Zip Sweater"
+        },
+        {
+            "price": "CAD 59.00",
+            "product_name": "Raid Faux-Suede Patch Sweater"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Waffle Knit Sweater"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Roy Logo Sweatshirt"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Roy Logo Sweatshirt"
+        },
+        {
+            "price": "CAD 148.00",
+            "product_name": "Locke Moto Longline Hoodie"
+        },
+        {
+            "price": "CAD 108.00",
+            "product_name": "Coated Knit Hoodie"
+        },
+        {
+            "price": "CAD 188.00",
+            "product_name": "Clip Hooded Sweater"
+        },
+        {
+            "price": "CAD 108.00",
+            "product_name": "Faux-Leather Sweater"
+        },
+        {
+            "price": "CAD 148.00",
+            "product_name": "Brushed Jacquard Sweater"
+        },
+        {
+            "price": "CAD 108.00",
+            "product_name": "Drape Front Cardigan"
+        },
+        {
+            "price": "CAD 108.00",
+            "product_name": "Drape Front Cardigan"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Raglan Longline Knit Sweater"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Reverse-Knit Turtleneck"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Marled Stitch Mix Pullover"
+        },
+        {
+            "price": "CAD 59.00",
+            "product_name": "Rush V-Neck Sweater"
+        },
+        {
+            "price": "CAD 59.00",
+            "product_name": "Avalon Slit Sweater"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Splatter Jacquard Pullover"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Quilted Yoke Sweater"
+        },
+        {
+            "price": "CAD 59.00",
+            "product_name": "Avalon Slit Sweater"
+        },
+        {
+            "price": "CAD 98.00",
+            "product_name": "Marled Stitch Mix Pullover"
+        },
+        {
+            "price": "CAD 89.00",
+            "product_name": "Grunge Striped Sweater"
+        },
+        {
+            "price": "CAD 108.00",
+            "product_name": "Longline Cable Sweater"
+        }
+    ],
+    "Harry Rosen": [
+        {
+            "price": "$420.00",
+            "designer": "BELSTAFF",
+            "product_name": "Parkgate Cardigan"
+        },
+        {
+            "price": "$225.00",
+            "designer": "HARTFORD",
+            "product_name": "Cotton Blend Sweatshirt"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Wing Tip Collar Shirt"
+        },
+        {
+            "price": "$85.00",
+            "designer": "BENSON",
+            "product_name": "Waffle Knit Henley"
+        },
+        {
+            "price": "$725.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Wool Turtleneck Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "S.N.S. HERNING",
+            "product_name": "Wool Crew Neck Sweater"
+        },
+        {
+            "price": "$258.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Ribbed Knit Cotton Henley"
+        },
+        {
+            "price": "$1,400.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$795.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Techmerino Zip-Up Sweater"
+        },
+        {
+            "price": "$1,995.00",
+            "designer": "KITON",
+            "product_name": "Cashmere Pullover Sweater"
+        },
+        {
+            "price": "$995.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$995.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Zipper Cardigan"
+        },
+        {
+            "price": "$350.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Quilted Sweater"
+        },
+        {
+            "price": "$920.00",
+            "designer": "MONCLER",
+            "product_name": "Drawstring Hoodie"
+        },
+        {
+            "price": "$1,050.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Wool Blend Zip-Up Cardigan"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "High Performance Wool Turtleneck"
+        },
+        {
+            "price": "$1,150.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$1,150.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$65.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton T-Shirt"
+        },
+        {
+            "price": "$2,495.00",
+            "designer": "KITON",
+            "product_name": "Cashmere Cable Knit Sweater"
+        },
+        {
+            "price": "$798.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Cashmere Hoodie"
+        },
+        {
+            "price": "$2,995.00",
+            "designer": "KITON",
+            "product_name": "Cashmere Cardigan"
+        },
+        {
+            "price": "$2,495.00",
+            "designer": "KITON",
+            "product_name": "Cashmere Cable Knit Sweater"
+        },
+        {
+            "price": "$798.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Cashmere Hoodie"
+        },
+        {
+            "price": "$960.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Hoodie"
+        },
+        {
+            "price": "$1,395.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$235.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$275.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Waffle Knit Henley"
+        },
+        {
+            "price": "$1,405.00",
+            "designer": "MONCLER",
+            "product_name": "Zip-Up Sweater"
+        },
+        {
+            "price": "$498.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$325.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Applique Sweater"
+        },
+        {
+            "price": "$330.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Ribbed Zip-Up Sweater"
+        },
+        {
+            "price": "$250.00",
+            "designer": "HARTFORD",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Zip-up Sweater"
+        },
+        {
+            "price": "$2,350.00",
+            "designer": "LORO PIANA",
+            "product_name": "Mezzocollo Cashmere Sweater"
+        },
+        {
+            "price": "$3,675.00",
+            "designer": "LORO PIANA",
+            "product_name": "Bressay Cashmere & Wool Blend Sweater"
+        },
+        {
+            "price": "$1,695.00",
+            "designer": "LORO PIANA",
+            "product_name": "Girocollo Burwick Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Hoodie"
+        },
+        {
+            "price": "$1,295.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$1,575.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Royal Sweater"
+        },
+        {
+            "price": "$495.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Zip-Front Wool Sweater"
+        },
+        {
+            "price": "$698.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Lambswool Skeet Cardigan"
+        },
+        {
+            "price": "$198.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Wool Drawstring Hoodie"
+        },
+        {
+            "price": "$350.00",
+            "designer": "RAFFI",
+            "product_name": "Half-Zip Cashmere Sweater"
+        },
+        {
+            "price": "$275.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$1,065.00",
+            "designer": "MONCLER",
+            "product_name": "Hooded Knit Cardigan"
+        },
+        {
+            "price": "$225.00",
+            "designer": "HARTFORD",
+            "product_name": "Cotton Blend Sweatshirt"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Mandarin Collar Shirt"
+        },
+        {
+            "price": "$298.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Cashmere Hoodie"
+        },
+        {
+            "price": "$995.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Zip-Up Sweater"
+        },
+        {
+            "price": "$498.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Knit Sweater"
+        },
+        {
+            "price": "$940.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Blend Hoodie"
+        },
+        {
+            "price": "$650.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Embroidered Medusa Hoodie"
+        },
+        {
+            "price": "$365.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Studded Medusa T-Shirt"
+        },
+        {
+            "price": "$258.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Ribbed Henley"
+        },
+        {
+            "price": "$275.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Waffle-Knit Henley"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Mandarin Collar Shirt"
+        },
+        {
+            "price": "$1,015.00",
+            "designer": "MONCLER",
+            "product_name": "Zip-Up Hoodie"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Stand Collar Sweater"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Stand Collar Knit Sweater"
+        },
+        {
+            "price": "$498.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Knit Sweater"
+        },
+        {
+            "price": "$548.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Ribbed Henley"
+        },
+        {
+            "price": "$1,405.00",
+            "designer": "DSQUARED2",
+            "product_name": "Cotton Hoodie"
+        },
+        {
+            "price": "$950.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Knit Cashmere Sweater"
+        },
+        {
+            "price": "$258.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Ribbed Henley"
+        },
+        {
+            "price": "$295.00",
+            "designer": "BOSS",
+            "product_name": "Wool Turtleneck"
+        },
+        {
+            "price": "$525.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Studded Cotton Sweater"
+        },
+        {
+            "price": "$195.00",
+            "designer": "BOSS",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$1,540.00",
+            "designer": "MONCLER",
+            "product_name": "Wool Blend Zip-Up Sweater"
+        },
+        {
+            "price": "$945.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Cotton Drawstring Hoodie"
+        },
+        {
+            "price": "$498.00",
+            "designer": "CIRCOLO",
+            "product_name": "Waffle Knit Wool Sweater"
+        },
+        {
+            "price": "$565.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$1,795.00",
+            "designer": "TOM FORD",
+            "product_name": "Cashmere Turtleneck Sweater"
+        },
+        {
+            "price": "$1,915.00",
+            "designer": "MONCLER",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$498.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$960.00",
+            "designer": "MONCLER",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$950.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$895.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Knit Yak Sweater"
+        },
+        {
+            "price": "$698.00",
+            "designer": "CORNELIANI",
+            "product_name": "Cashmere Waffle Knit Sweater"
+        },
+        {
+            "price": "$358.00",
+            "designer": "CORNELIANI",
+            "product_name": "Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$595.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Zip-Wool Wool Sweater"
+        },
+        {
+            "price": "$498.00",
+            "designer": "CIRCOLO",
+            "product_name": "Waffle Knit Wool Sweater"
+        },
+        {
+            "price": "$1,295.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$515.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Cotton Half-Zip Sweater"
+        },
+        {
+            "price": "$280.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Geometric Print Sweater"
+        },
+        {
+            "price": "$1,595.00",
+            "designer": "MONCLER",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$510.00",
+            "designer": "BELSTAFF",
+            "product_name": "Barnstead Wool Turtleneck"
+        },
+        {
+            "price": "$330.00",
+            "designer": "BELSTAFF",
+            "product_name": "Langford Wool Sweater"
+        },
+        {
+            "price": "$2,395.00",
+            "designer": "TOM FORD",
+            "product_name": "Cashmere & Wool Blend Sweater"
+        },
+        {
+            "price": "$365.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Long-Sleeve T-Shirt"
+        },
+        {
+            "price": "$325.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$685.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Virgin Wool Cardigan"
+        },
+        {
+            "price": "$975.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Techmerino Zip-Up Sweater"
+        },
+        {
+            "price": "$500.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Cotton & Wool Blend Cardigan"
+        },
+        {
+            "price": "$545.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Half-Zip Sweater"
+        },
+        {
+            "price": "$795.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Alpine Cashmere Sweater"
+        },
+        {
+            "price": "$775.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$850.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Ski Appliqu\u00e9 Cotton Sweater"
+        },
+        {
+            "price": "$178.00",
+            "designer": "DIESEL",
+            "product_name": "K-MISO Sweater"
+        },
+        {
+            "price": "$420.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$580.00",
+            "designer": "MONCLER",
+            "product_name": "Novelty Ski Appliqu\u00e9 Sweatshirt"
+        },
+        {
+            "price": "$1,260.00",
+            "designer": "MONCLER",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$495.00",
+            "designer": "TOM FORD",
+            "product_name": "Pocket Tee"
+        },
+        {
+            "price": "$575.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Hoodie"
+        },
+        {
+            "price": "$495.00",
+            "designer": "TOM FORD",
+            "product_name": "V-Neck Tee"
+        },
+        {
+            "price": "$345.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Cardigan"
+        },
+        {
+            "price": "$395.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Zip-Up Sweater"
+        },
+        {
+            "price": "$1,295.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Cartoon Appliqu\u00e9 Hoodie"
+        },
+        {
+            "price": "$575.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Sweatshirt"
+        },
+        {
+            "price": "$675.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Alpine Zip-Up Sweater"
+        },
+        {
+            "price": "$365.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Alpine Long Sleeve Tee"
+        },
+        {
+            "price": "$900.00",
+            "designer": "DSQUARED2",
+            "product_name": "Cotton Drawstring Hoodie"
+        },
+        {
+            "price": "$675.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Ski Appliqu\u00e9 Cotton Sweater"
+        },
+        {
+            "price": "$135.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Drawstring Hoodie"
+        },
+        {
+            "price": "$215.00",
+            "designer": "BOSS",
+            "product_name": "Crew Neck Sweater"
+        },
+        {
+            "price": "$178.00",
+            "designer": "DIESEL",
+            "product_name": "K-MISO Sweater"
+        },
+        {
+            "price": "$1,150.00",
+            "designer": "CORNELIANI",
+            "product_name": "Virgin Wool Bomber Jacket"
+        },
+        {
+            "price": "$118.00",
+            "designer": "DIESEL",
+            "product_name": "Only the Brave Tee"
+        },
+        {
+            "price": "$198.00",
+            "designer": "DIESEL",
+            "product_name": "Zip Sweater"
+        },
+        {
+            "price": "$495.00",
+            "designer": "TOM FORD",
+            "product_name": "Pocket Tee"
+        },
+        {
+            "price": "$1,495.00",
+            "designer": "TOM FORD",
+            "product_name": "Wool Cardigan"
+        },
+        {
+            "price": "$495.00",
+            "designer": "TOM FORD",
+            "product_name": "V-neck Tee"
+        },
+        {
+            "price": "$425.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Long Sleeve Shirt"
+        },
+        {
+            "price": "$1,695.00",
+            "designer": "TOM FORD",
+            "product_name": "Ribbed Henley"
+        },
+        {
+            "price": "$450.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cotton Knit Shirt"
+        },
+        {
+            "price": "$198.00",
+            "designer": "DIESEL",
+            "product_name": "Cotton & Wool Blend Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Mesh Bomber Jacket"
+        },
+        {
+            "price": "$510.00",
+            "designer": "BELSTAFF",
+            "product_name": "Kelby Zip Cardigan"
+        },
+        {
+            "price": "$1,450.00",
+            "designer": "CORNELIANI",
+            "product_name": "Wool & Cashmere Blend Jacket"
+        },
+        {
+            "price": "$1,198.00",
+            "designer": "CORNELIANI",
+            "product_name": "Quilted Bomber Jacket"
+        },
+        {
+            "price": "$510.00",
+            "designer": "BELSTAFF",
+            "product_name": "Kelby Zip Cardigan"
+        },
+        {
+            "price": "$248.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Sweater"
+        },
+        {
+            "price": "$1,795.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Wool Blend Zip-Up Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cotton Shirt"
+        },
+        {
+            "price": "$545.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Novelty Ski Printed Wool Sweater"
+        },
+        {
+            "price": "$850.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Wool Zip-Up Sweater"
+        },
+        {
+            "price": "$795.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Zip-Up Hoodie"
+        },
+        {
+            "price": "$510.00",
+            "designer": "BELSTAFF",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Checked Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Geometric Long-Sleeve T-Shirt"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Wool V-Neck Sweater"
+        },
+        {
+            "price": "$1,540.00",
+            "designer": "MONCLER",
+            "product_name": "Zip-Up Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Wool Turtleneck"
+        },
+        {
+            "price": "$145.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$695.00",
+            "designer": "TOM FORD",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$1,065.00",
+            "designer": "MONCLER",
+            "product_name": "Hooded Knit Cardigan"
+        },
+        {
+            "price": "$970.00",
+            "designer": "MONCLER",
+            "product_name": "Wool Drawstring Hoodie"
+        },
+        {
+            "price": "$450.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Wool Zip-Up Sweater"
+        },
+        {
+            "price": "$950.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Wool Crew Neck Sweater"
+        },
+        {
+            "price": "$65.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton T-Shirt"
+        },
+        {
+            "price": "$498.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$498.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Wool & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$345.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton T-Shirt"
+        },
+        {
+            "price": "$345.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton T-Shirt"
+        },
+        {
+            "price": "$195.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Turtleneck"
+        },
+        {
+            "price": "$425.00",
+            "designer": "BOSS",
+            "product_name": "Cotton Zip-Up Sweater"
+        },
+        {
+            "price": "$70.00",
+            "designer": "BENSON",
+            "product_name": "Long Sleeve T-Shirt"
+        },
+        {
+            "price": "$150.00",
+            "designer": "BOSS",
+            "product_name": "Long-Sleeve Cotton T-Shirt"
+        },
+        {
+            "price": "$150.00",
+            "designer": "BOSS",
+            "product_name": "Long-Sleeve Cotton T-Shirt"
+        },
+        {
+            "price": "$425.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Printed Cotton T-Shirt"
+        },
+        {
+            "price": "$635.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$635.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$675.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "High Performance Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$675.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "High Performance Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$675.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "High Performance Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$275.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Cashmere Crew Neck Sweater"
+        },
+        {
+            "price": "$195.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$1,595.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$235.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$610.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$198.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Merino Wool Cardigan"
+        },
+        {
+            "price": "$195.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$195.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$635.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$550.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Blend Sweater"
+        },
+        {
+            "price": "$1,695.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$1,250.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Virgin Wool Blend Sweater"
+        },
+        {
+            "price": "$115.00",
+            "designer": "LACOSTE",
+            "product_name": "Classic Fit Cotton Polo"
+        },
+        {
+            "price": "$115.00",
+            "designer": "LACOSTE",
+            "product_name": "Classic Fit Polo"
+        },
+        {
+            "price": "$115.00",
+            "designer": "LACOSTE",
+            "product_name": "Cashmere Hoodie"
+        },
+        {
+            "price": "$175.00",
+            "designer": "LACOSTE",
+            "product_name": "Zip Up Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "LACOSTE",
+            "product_name": "Zip Up Hoodie"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$98.00",
+            "designer": "BENSON",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$475.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Technical Sweater"
+        },
+        {
+            "price": "$350.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$995.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Technical Knit Sweater"
+        },
+        {
+            "price": "$150.00",
+            "designer": "LACOSTE",
+            "product_name": "Half-Zip Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Half-Zip Wool Sweater"
+        },
+        {
+            "price": "$175.00",
+            "designer": "LACOSTE",
+            "product_name": "Zip Up Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$1,495.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$98.00",
+            "designer": "BENSON",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$550.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Technical Zip-Up Sweater"
+        },
+        {
+            "price": "$950.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Virgin Wool Blend Sweater"
+        },
+        {
+            "price": "$115.00",
+            "designer": "LACOSTE",
+            "product_name": "Classic Fit Polo"
+        },
+        {
+            "price": "$98.00",
+            "designer": "BENSON",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Technical Sweater"
+        },
+        {
+            "price": "$70.00",
+            "designer": "BENSON",
+            "product_name": "Technical Sweater"
+        },
+        {
+            "price": "$870.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Sweatshirt"
+        },
+        {
+            "price": "$2,395.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere & Silk Blend Cardigan"
+        },
+        {
+            "price": "$498.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Embroidered Sweatshirt"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$205.00",
+            "designer": "BOSS",
+            "product_name": "Wool & Silk Blend Sweater"
+        },
+        {
+            "price": "$495.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Stretch Cotton Zip-Up Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Zip-Up Sweater"
+        },
+        {
+            "price": "$225.00",
+            "designer": "HARTFORD",
+            "product_name": "Cotton Sweatshirt"
+        },
+        {
+            "price": "$1,305.00",
+            "designer": "MONCLER",
+            "product_name": "Zip-Up Hoodie"
+        },
+        {
+            "price": "$298.00",
+            "designer": "CANALI",
+            "product_name": "Wool Turtleneck"
+        },
+        {
+            "price": "$178.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cotton Blend Henley"
+        },
+        {
+            "price": "$178.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cotton Blend Henley"
+        },
+        {
+            "price": "$178.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cotton Blend Henley"
+        },
+        {
+            "price": "$205.00",
+            "designer": "BOSS",
+            "product_name": "Wool & Silk Blend Sweater"
+        },
+        {
+            "price": "$558.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$420.00",
+            "designer": "BELSTAFF",
+            "product_name": "Cotton Zip-Up Cardigan"
+        },
+        {
+            "price": "$420.00",
+            "designer": "BELSTAFF",
+            "product_name": "Cotton Zip-Up Cardigan"
+        },
+        {
+            "price": "$358.00",
+            "designer": "CORNELIANI",
+            "product_name": "Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$390.00",
+            "designer": "BELSTAFF",
+            "product_name": "Sophnet Eastbury Cotton Hoodie"
+        },
+        {
+            "price": "$2,395.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$330.00",
+            "designer": "BELSTAFF",
+            "product_name": "Sohpnet Grantley Cotton Sweater"
+        },
+        {
+            "price": "$198.00",
+            "designer": "DIESEL",
+            "product_name": "Wool Blend Half-Zip Sweater"
+        },
+        {
+            "price": "$198.00",
+            "designer": "DIESEL",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$995.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Virgin Wool Blend Cardigan"
+        },
+        {
+            "price": "$150.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Long Sleeve Cotton Blend Henley"
+        },
+        {
+            "price": "$150.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Long Sleeve Cotton Polo"
+        },
+        {
+            "price": "$390.00",
+            "designer": "BELSTAFF",
+            "product_name": "Sophnet Eastbury Cotton Hoodie"
+        },
+        {
+            "price": "$975.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Printed Sweater"
+        },
+        {
+            "price": "$178.00",
+            "designer": "DIESEL",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$330.00",
+            "designer": "BELSTAFF",
+            "product_name": "Sophnet Grantley Cotton Sweater"
+        },
+        {
+            "price": "$215.00",
+            "designer": "BOSS",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$1,550.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Unstructured Jacket"
+        },
+        {
+            "price": "$995.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton Blend Zip-Up Hoodie"
+        },
+        {
+            "price": "$995.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Unstructured Jacket"
+        },
+        {
+            "price": "$345.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton T-Shirt"
+        },
+        {
+            "price": "$1,550.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Unstructured Jacket"
+        },
+        {
+            "price": "$350.00",
+            "designer": "SAND",
+            "product_name": "Wool Blend Turtleneck"
+        },
+        {
+            "price": "$798.00",
+            "designer": "CANALI",
+            "product_name": "Wool Zip-Up Sweater"
+        },
+        {
+            "price": "$298.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Turtleneck"
+        },
+        {
+            "price": "$298.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Turtleneck"
+        },
+        {
+            "price": "$298.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Turtleneck"
+        },
+        {
+            "price": "$498.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Silk & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$1,575.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Virgin Wool Blend Sweater"
+        },
+        {
+            "price": "$1,025.00",
+            "designer": "DSQUARED2",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$325.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Long-Sleeve Silk Blend Polo"
+        },
+        {
+            "price": "$325.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Long-Sleeve Silk Blend Polo"
+        },
+        {
+            "price": "$278.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend V-Neck Sweater"
+        },
+        {
+            "price": "$325.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$1,495.00",
+            "designer": "TOM FORD",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Wool & Silk Blend Sweater"
+        },
+        {
+            "price": "$1,595.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$358.00",
+            "designer": "CORNELIANI",
+            "product_name": "Virgin Wool Sweater"
+        },
+        {
+            "price": "$475.00",
+            "designer": "ETRO",
+            "product_name": "Printed Cotton Shirt"
+        },
+        {
+            "price": "$498.00",
+            "designer": "CORNELIANI",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$398.00",
+            "designer": "CANALI",
+            "product_name": "Wool Half-Zip Sweater"
+        },
+        {
+            "price": "$850.00",
+            "designer": "CANALI",
+            "product_name": "Reversible Wool Coat"
+        },
+        {
+            "price": "$398.00",
+            "designer": "CORNELIANI",
+            "product_name": "Virgin Wool Turtleneck"
+        },
+        {
+            "price": "$495.00",
+            "designer": "ETRO",
+            "product_name": "Wool Turtleneck"
+        },
+        {
+            "price": "$395.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Vernon Sweater"
+        },
+        {
+            "price": "$398.00",
+            "designer": "CORNELIANI",
+            "product_name": "Virgin Wool Turtleneck"
+        },
+        {
+            "price": "$475.00",
+            "designer": "ETRO",
+            "product_name": "Printed Cotton Shirt"
+        },
+        {
+            "price": "$550.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$795.00",
+            "designer": "ETRO",
+            "product_name": "Wool Zip-Up Sweater"
+        },
+        {
+            "price": "$78.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Cotton T-Shirt"
+        },
+        {
+            "price": "$558.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "M\u00e9lange Silk Blend Cardigan"
+        },
+        {
+            "price": "$68.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Cotton T-Shirt"
+        },
+        {
+            "price": "$98.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Burnout T-Shirt"
+        },
+        {
+            "price": "$395.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Cardigan"
+        },
+        {
+            "price": "$295.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Zip-Up Merino Wool Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Knit Sweater"
+        },
+        {
+            "price": "$298.00",
+            "designer": "CANALI",
+            "product_name": "Wool Turtleneck"
+        },
+        {
+            "price": "$355.00",
+            "designer": "BELSTAFF",
+            "product_name": "Drawstring Hoodie"
+        },
+        {
+            "price": "$195.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$225.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Cardigan"
+        },
+        {
+            "price": "$525.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cotton Piqu\u00e9 Polo"
+        },
+        {
+            "price": "$525.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cotton Piqu\u00e9 Polo"
+        },
+        {
+            "price": "$250.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Cotton Piqu\u00e9 Polo"
+        },
+        {
+            "price": "$128.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Cotton T-Shirt"
+        },
+        {
+            "price": "$685.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Wool Cardigan"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Turtleneck"
+        },
+        {
+            "price": "$235.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Raglan Sleeve Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Stretch Blend Zip-Up Sweater"
+        },
+        {
+            "price": "$298.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$298.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Turtleneck"
+        },
+        {
+            "price": "$1,575.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Drawstring Hoodie"
+        },
+        {
+            "price": "$795.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Printed Cotton Sweater"
+        },
+        {
+            "price": "$235.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Striped Knit Cardigan"
+        },
+        {
+            "price": "$375.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Knit Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Knit Sweater"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Turtleneck"
+        },
+        {
+            "price": "$525.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cotton Piqu\u00e9 Polo"
+        },
+        {
+            "price": "$278.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$550.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$1,695.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Drawstring Hoodie"
+        },
+        {
+            "price": "$298.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "DIESEL",
+            "product_name": "Stretch Cotton Zip-Up Sweater"
+        },
+        {
+            "price": "$85.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve Stretch Cotton T-Shirt"
+        },
+        {
+            "price": "$285.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Long-Sleeve Cotton T-Shirt"
+        },
+        {
+            "price": "$345.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$550.00",
+            "designer": "CIRCOLO",
+            "product_name": "Extra-Fine Merino Wool Sweater"
+        },
+        {
+            "price": "$255.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve Merino Wool Polo"
+        },
+        {
+            "price": "$895.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Double-Breasted Wool Sweater"
+        },
+        {
+            "price": "$250.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$250.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$250.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$498.00",
+            "designer": "CORNELIANI",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Turtleneck"
+        },
+        {
+            "price": "$350.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Turtleneck"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Long-Sleeve Linen Henley"
+        },
+        {
+            "price": "$85.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve Pima Cotton T-Shirt"
+        },
+        {
+            "price": "$945.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Printed Drawstring Hoodie"
+        },
+        {
+            "price": "$295.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Wool Turtleneck"
+        },
+        {
+            "price": "$560.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Printed Sweatshirt"
+        },
+        {
+            "price": "$985.00",
+            "designer": "DSQUARED2",
+            "product_name": "Stretch Cotton & Denim Sweatshirt"
+        },
+        {
+            "price": "$298.00",
+            "designer": "CANALI",
+            "product_name": "Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$298.00",
+            "designer": "CANALI",
+            "product_name": "Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$298.00",
+            "designer": "CANALI",
+            "product_name": "Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$298.00",
+            "designer": "CANALI",
+            "product_name": "Long-Sleeve Wool Polo"
+        },
+        {
+            "price": "$258.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Cotton Blend Cardigan"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Long-Sleeve T-Shirt"
+        },
+        {
+            "price": "$258.00",
+            "designer": "JOHN VARVATOS COLLECTION",
+            "product_name": "Long-Sleeve Ribbed Henley"
+        },
+        {
+            "price": "$350.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Jacquard Sweater"
+        },
+        {
+            "price": "$1,405.00",
+            "designer": "MONCLER",
+            "product_name": "Quilted Down Panel Sweater"
+        },
+        {
+            "price": "$98.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Printed Cotton Blend T-Shirt"
+        },
+        {
+            "price": "$65.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton T-Shirt"
+        },
+        {
+            "price": "$298.00",
+            "designer": "CANALI",
+            "product_name": "Wool Turtleneck"
+        },
+        {
+            "price": "$495.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Zip-Up Hoodie"
+        },
+        {
+            "price": "$945.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Printed Cotton Hoodie"
+        },
+        {
+            "price": "$940.00",
+            "designer": "DSQUARED2",
+            "product_name": "Drawstring Hoodie"
+        },
+        {
+            "price": "$1,345.00",
+            "designer": "MONCLER",
+            "product_name": "Quilted Down Panel Sweater"
+        },
+        {
+            "price": "$98.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Printed Cotton Blend T-Shirt"
+        },
+        {
+            "price": "$490.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Printed Cotton Sweatshirt"
+        },
+        {
+            "price": "$560.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$1,365.00",
+            "designer": "TOM FORD",
+            "product_name": "Cashmere & Silk Blend Turtleneck"
+        },
+        {
+            "price": "$225.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Valemount Knit Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Patterson Merino Wool Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Patterson Merino Wool Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Patterson Merino Wool Sweater"
+        },
+        {
+            "price": "$115.00",
+            "designer": "BENSON",
+            "product_name": "Waffle Knit Hoodie"
+        },
+        {
+            "price": "$570.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Zip-Up Hoodie"
+        },
+        {
+            "price": "$430.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Asymmetrical Zip Sweatshirt"
+        },
+        {
+            "price": "$505.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Velvet Swallow Sweatshirt"
+        },
+        {
+            "price": "$125.00",
+            "designer": "BENSON",
+            "product_name": "Cotton Blend Hoodie"
+        },
+        {
+            "price": "$98.00",
+            "designer": "BENSON",
+            "product_name": "Reversible Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Vancouver Knit Hoodie"
+        },
+        {
+            "price": "$355.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Printed Cotton Sweatshirt"
+        },
+        {
+            "price": "$225.00",
+            "designer": "BENSON",
+            "product_name": "Shawl Collar Cardigan"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Blend Sweater"
+        },
+        {
+            "price": "$225.00",
+            "designer": "BENSON",
+            "product_name": "Shawl Collar Cardigan"
+        },
+        {
+            "price": "$945.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Cotton Drawstring Hoodie"
+        },
+        {
+            "price": "$950.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Hooded Bomber Jacket"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$505.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Velvet Swallow Sweatshirt"
+        },
+        {
+            "price": "$70.00",
+            "designer": "BENSON",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$65.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton T-Shirt"
+        },
+        {
+            "price": "$395.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Vancouver Knit Hoodie"
+        },
+        {
+            "price": "$575.00",
+            "designer": "S.N.S. HERNING",
+            "product_name": "Wool Cardigan"
+        },
+        {
+            "price": "$395.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Vancouver Knit Hoodie"
+        },
+        {
+            "price": "$85.00",
+            "designer": "BENSON",
+            "product_name": "Waffle Knit Henley"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$795.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Printed Cotton Sweatshirt"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Turtleneck"
+        },
+        {
+            "price": "$75.00",
+            "designer": "BENSON",
+            "product_name": "Waffle Knit Sweater"
+        },
+        {
+            "price": "$1,040.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Cable Knit Wool Cardigan"
+        },
+        {
+            "price": "$465.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Swallow Cotton Hoodie"
+        },
+        {
+            "price": "$75.00",
+            "designer": "BENSON",
+            "product_name": "Waffle Knit Sweater"
+        },
+        {
+            "price": "$1,150.00",
+            "designer": "MONCLER",
+            "product_name": "Drawstring Hoodie"
+        },
+        {
+            "price": "$395.00",
+            "designer": "CANADA GOOSE",
+            "product_name": "Galloway Sweater"
+        },
+        {
+            "price": "$310.00",
+            "designer": "MCQ ALEXANDER MCQUEEN",
+            "product_name": "Printed Long-Sleeve T-Shirt"
+        },
+        {
+            "price": "$188.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cotton Henley"
+        },
+        {
+            "price": "$1,150.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$850.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Textured Cashmere Blend Sweater"
+        },
+        {
+            "price": "$188.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Washed Cotton Henley"
+        },
+        {
+            "price": "$128.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Printed Raglan T-Shirt"
+        },
+        {
+            "price": "$525.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cotton Piqu\u00e9 Polo"
+        },
+        {
+            "price": "$798.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Stretch Cotton Sweatshirt"
+        },
+        {
+            "price": "$295.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Turtleneck Knit Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "VERSACE JEANS",
+            "product_name": "Printed Cotton Sweatshirt"
+        },
+        {
+            "price": "$2,345.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cardigan"
+        },
+        {
+            "price": "$288.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Washed Cotton Henley"
+        },
+        {
+            "price": "$450.00",
+            "designer": "DIESEL BLACK GOLD",
+            "product_name": "Striped Wool Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Burnout Cotton Cardigan"
+        },
+        {
+            "price": "$150.00",
+            "designer": "REIGNING CHAMP",
+            "product_name": "Cotton Blend Sweatshirt"
+        },
+        {
+            "price": "$498.00",
+            "designer": "VERSACE COLLECTION",
+            "product_name": "Silk Sweater"
+        },
+        {
+            "price": "$265.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Organic Cotton Sweatshirt"
+        },
+        {
+            "price": "$1,725.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Wool Sweater Jacket"
+        },
+        {
+            "price": "$995.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Zip-Up Sweater"
+        },
+        {
+            "price": "$375.00",
+            "designer": "S.N.S. HERNING",
+            "product_name": "Wool Turtleneck Sweater"
+        },
+        {
+            "price": "$420.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Wool Blend Turtleneck Sweater"
+        },
+        {
+            "price": "$225.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Cardigan"
+        },
+        {
+            "price": "$568.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Fair Isle Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "S.N.S. HERNING",
+            "product_name": "Merino Wool Half-Zip Sweater"
+        },
+        {
+            "price": "$235.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Drawstring Stretch Cotton Hoodie"
+        },
+        {
+            "price": "$595.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Wool Zip-Up Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "DIESEL BLACK GOLD",
+            "product_name": "Zip-Up Hoodie"
+        },
+        {
+            "price": "$790.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$110.00",
+            "designer": "REIGNING CHAMP",
+            "product_name": "Long-Sleeve T-Shirt"
+        },
+        {
+            "price": "$148.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Sweatshirt"
+        },
+        {
+            "price": "$525.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$420.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Striped Wool Sweater"
+        },
+        {
+            "price": "$395.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Cashmere Blend Knit"
+        },
+        {
+            "price": "$140.00",
+            "designer": "REIGNING CHAMP",
+            "product_name": "Performance Pullover"
+        },
+        {
+            "price": "$140.00",
+            "designer": "REIGNING CHAMP",
+            "product_name": "Half-Zip T-Shirt"
+        },
+        {
+            "price": "$398.00",
+            "designer": "BENSON",
+            "product_name": "Turtleneck Sweater"
+        },
+        {
+            "price": "$398.00",
+            "designer": "BENSON",
+            "product_name": "Turtleneck Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Zip-Up Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Half-Zip Sweater"
+        },
+        {
+            "price": "$825.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Blend Sweatshirt"
+        },
+        {
+            "price": "$148.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Cotton Sweater"
+        },
+        {
+            "price": "$350.00",
+            "designer": "SAND",
+            "product_name": "Ribbed Knit Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$235.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Raglan Sleeve Sweater"
+        },
+        {
+            "price": "$420.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Striped Wool Blend Sweater"
+        },
+        {
+            "price": "$390.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$98.00",
+            "designer": "BENSON",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$175.00",
+            "designer": "DIESEL BLACK GOLD",
+            "product_name": "Cotton Hoodie"
+        },
+        {
+            "price": "$150.00",
+            "designer": "DIESEL BLACK GOLD",
+            "product_name": "Cotton Shirt"
+        },
+        {
+            "price": "$350.00",
+            "designer": "DIESEL BLACK GOLD",
+            "product_name": "Cotton Sweatshirt"
+        },
+        {
+            "price": "$450.00",
+            "designer": "DIESEL BLACK GOLD",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$1,525.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cardigan"
+        },
+        {
+            "price": "$845.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$845.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$845.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$1,525.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cardigan"
+        },
+        {
+            "price": "$1,525.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cardigan"
+        },
+        {
+            "price": "$795.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Half-Zip Wool Sweater"
+        },
+        {
+            "price": "$175.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Zip Front Cotton Hoodie"
+        },
+        {
+            "price": "$85.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Pima Cotton T-Shirt"
+        },
+        {
+            "price": "$85.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve T-Shirt"
+        },
+        {
+            "price": "$1,175.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$945.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Cotton Jersey Hoodie"
+        },
+        {
+            "price": "$1,145.00",
+            "designer": "DOLCE & GABBANA",
+            "product_name": "Cotton Jersey Hoodie"
+        },
+        {
+            "price": "$675.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$675.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$365.00",
+            "designer": "CORNELIANI",
+            "product_name": "Striped Turtleneck Sweater"
+        },
+        {
+            "price": "$4,195.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Cashmere Sweater-Jacket"
+        },
+        {
+            "price": "$745.00",
+            "designer": "MONCLER",
+            "product_name": "Hooded Zip-Up Sweater"
+        },
+        {
+            "price": "$745.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$1,135.00",
+            "designer": "MONCLER",
+            "product_name": "Maglia Down Hoodie"
+        },
+        {
+            "price": "$1,015.00",
+            "designer": "MONCLER",
+            "product_name": "Hooded Knit Cardigan"
+        },
+        {
+            "price": "$1,305.00",
+            "designer": "MONCLER",
+            "product_name": "Down Ski Jacket"
+        },
+        {
+            "price": "$385.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Techmerino Wool Shirt"
+        },
+        {
+            "price": "$995.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Half-Zip Wool Blend Sweater"
+        },
+        {
+            "price": "$495.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Zip-Front Sweater"
+        },
+        {
+            "price": "$775.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Heavy Knit Cardigan"
+        },
+        {
+            "price": "$575.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Half-Zip Cashmere Sweater"
+        },
+        {
+            "price": "$495.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$450.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Ribbed Knit Wool Sweater"
+        },
+        {
+            "price": "$998.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "CashSeta Light Knit Polo"
+        },
+        {
+            "price": "$998.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "CashSeta Light Knit Polo"
+        },
+        {
+            "price": "$998.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Casheta Light Knit Polo"
+        },
+        {
+            "price": "$998.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "CashSeta Light Knit Polo"
+        },
+        {
+            "price": "$998.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "CashSeta Light Knit Polo"
+        },
+        {
+            "price": "$1,795.00",
+            "designer": "KITON",
+            "product_name": "Cashmere & Silk Blend Cardigan"
+        },
+        {
+            "price": "$575.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Half-Zip Cashmere Sweater"
+        },
+        {
+            "price": "$495.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$175.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Silk Blend Polo"
+        },
+        {
+            "price": "$650.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Vested Cardigan"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Long-Sleeve Performance Polo"
+        },
+        {
+            "price": "$295.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Stretch Jersey Hoodie"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Cashmere & Silk Sweater"
+        },
+        {
+            "price": "$1,125.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Wool & Cashmere Knit Jacket"
+        },
+        {
+            "price": "$775.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Chevron Wool Knit Jacket"
+        },
+        {
+            "price": "$695.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Chevron Wool Sweater-Jacket"
+        },
+        {
+            "price": "$775.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Heavy Knit Cardigan"
+        },
+        {
+            "price": "$1,550.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "CashSeta Light Knit Polo"
+        },
+        {
+            "price": "$1,550.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "CashSeta Light Knit Polo"
+        },
+        {
+            "price": "$555.00",
+            "designer": "DSQUARED2",
+            "product_name": "Wool Turtleneck Sweater"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Wool Sweater"
+        },
+        {
+            "price": "$695.00",
+            "designer": "TOM FORD",
+            "product_name": "Cotton Henley"
+        },
+        {
+            "price": "$695.00",
+            "designer": "TOM FORD",
+            "product_name": "Cotton Henley"
+        },
+        {
+            "price": "$1,995.00",
+            "designer": "TOM FORD",
+            "product_name": "Knit Cashmere Polo"
+        },
+        {
+            "price": "$475.00",
+            "designer": "RAFFI",
+            "product_name": "Cashmere Zip-Up Sweater"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "High Performance Wool Sweater"
+        },
+        {
+            "price": "$765.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "High Performance Wool Sweater"
+        },
+        {
+            "price": "$85.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve Shirt"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$188.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Ribbed Knit Cotton Henley"
+        },
+        {
+            "price": "$85.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve Pima Cotton T-Shirt"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Wool Blend Cardigan"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$795.00",
+            "designer": "Z ZEGNA",
+            "product_name": "Novelty Ski Printed Wool Sweater"
+        },
+        {
+            "price": "$178.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cotton Blend Hoodie"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Zip-Up Cotton Blend Hoodie"
+        },
+        {
+            "price": "$255.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve Merino Wool Polo"
+        },
+        {
+            "price": "$255.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Long-Sleeve Merino Wool Polo"
+        },
+        {
+            "price": "$245.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Merino Wool Turtleneck"
+        },
+        {
+            "price": "$398.00",
+            "designer": "BENSON",
+            "product_name": "Turtleneck Knit"
+        },
+        {
+            "price": "$630.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$358.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Marled Knit Wool Blend Sweater"
+        },
+        {
+            "price": "$150.00",
+            "designer": "BOSS",
+            "product_name": "Terell Long-Sleeve Cotton Shirt"
+        },
+        {
+            "price": "$150.00",
+            "designer": "BOSS",
+            "product_name": "Terell Long-Sleeve Cotton Shirt"
+        },
+        {
+            "price": "$2,545.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Alpaca Blend Cardigan"
+        },
+        {
+            "price": "$350.00",
+            "designer": "RAFFI",
+            "product_name": "Half-Zip Cashmere Sweater"
+        },
+        {
+            "price": "$350.00",
+            "designer": "RAFFI",
+            "product_name": "Cableknit Cashmere Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool Blend Sweater"
+        },
+        {
+            "price": "$825.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton Jersey T-Shirt"
+        },
+        {
+            "price": "$1,575.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cable-Knit Sweater"
+        },
+        {
+            "price": "$225.00",
+            "designer": "BELSTAFF",
+            "product_name": "Cotton Zip-Up Sweater"
+        },
+        {
+            "price": "$265.00",
+            "designer": "BELSTAFF",
+            "product_name": "Cotton Hoodie"
+        },
+        {
+            "price": "$4,395.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cardigan"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cable Knit Sweater"
+        },
+        {
+            "price": "$598.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Zip-Up Wool Blend Hoodie"
+        },
+        {
+            "price": "$198.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Striped Jersey T-Shirt"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$288.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Washed Cotton Henley"
+        },
+        {
+            "price": "$178.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Striped Cotton Hoodie"
+        },
+        {
+            "price": "$148.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Cotton Sweatshirt"
+        },
+        {
+            "price": "$198.00",
+            "designer": "DIESEL",
+            "product_name": "Camouflage Print Sweater"
+        },
+        {
+            "price": "$78.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Cotton T-Shirt"
+        },
+        {
+            "price": "$995.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool & Cashmere Blend Zip-Up Cardigan"
+        },
+        {
+            "price": "$525.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Half-Zip Wool Sweater"
+        },
+        {
+            "price": "$198.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Long-Sleeve Striped Knit T-Shirt"
+        },
+        {
+            "price": "$168.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Half-Zip Cashmere Sweater"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Cotton Cardigan"
+        },
+        {
+            "price": "$298.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "D\u00e9grad\u00e9 Cotton Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Half-Zip Cashmere Sweater"
+        },
+        {
+            "price": "$505.00",
+            "designer": "MONCLER",
+            "product_name": "Cotton Drawstring Hoodie"
+        },
+        {
+            "price": "$215.00",
+            "designer": "BOSS",
+            "product_name": "Zip-Up Cotton Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "TOM FORD",
+            "product_name": "V-Neck Cotton Sweater"
+        },
+        {
+            "price": "$775.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk Blend Sweater"
+        },
+        {
+            "price": "$750.00",
+            "designer": "ERMENEGILDO ZEGNA",
+            "product_name": "Embroidered Sweatshirt"
+        },
+        {
+            "price": "$395.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton Drawstring Hoodie"
+        },
+        {
+            "price": "$115.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Striped Cotton T-Shirt"
+        },
+        {
+            "price": "$325.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Stretch Cotton Hoodie"
+        },
+        {
+            "price": "$1,175.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$3,775.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Zip-Up Hoodie"
+        },
+        {
+            "price": "$1,575.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cable-Knit Sweater"
+        },
+        {
+            "price": "$4,395.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Blend Cardigan"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$158.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Striped Henley"
+        },
+        {
+            "price": "$1,050.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Marled Cashmere Cardigan"
+        },
+        {
+            "price": "$635.00",
+            "designer": "CORNELIANI",
+            "product_name": "Merino Wool Sweater"
+        },
+        {
+            "price": "$295.00",
+            "designer": "ARMANI COLLEZIONI",
+            "product_name": "Long-Sleeve Stretch Polo"
+        },
+        {
+            "price": "$1,295.00",
+            "designer": "GIORGIO ARMANI",
+            "product_name": "Zip-Up Sweater"
+        },
+        {
+            "price": "$158.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Long-Sleeve Jersey Polo"
+        },
+        {
+            "price": "$565.00",
+            "designer": "MAURIZIO BALDASSARI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$475.00",
+            "designer": "RAFFI",
+            "product_name": "Zip-Up Sweater"
+        },
+        {
+            "price": "$555.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Striped Cashmere Blend Sweater"
+        },
+        {
+            "price": "$1,280.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Cashmere Blend Cardigan Style"
+        },
+        {
+            "price": "$148.00",
+            "designer": "DIESEL",
+            "product_name": "Printed Cotton Sweatshirt"
+        },
+        {
+            "price": "$595.00",
+            "designer": "HARDY AMIES",
+            "product_name": "Zip-Up Wool Sweater"
+        },
+        {
+            "price": "$348.00",
+            "designer": "DIESEL",
+            "product_name": "Wool & Cotton Blend Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "DIESEL",
+            "product_name": "Cotton Hoodie"
+        },
+        {
+            "price": "$118.00",
+            "designer": "DIESEL",
+            "product_name": "Striped Long-Sleeve Cotton T-Shirt"
+        },
+        {
+            "price": "$1,795.00",
+            "designer": "KITON",
+            "product_name": "Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$1,065.00",
+            "designer": "MONCLER",
+            "product_name": "Logo Print Cotton Sweatshirt"
+        },
+        {
+            "price": "$150.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Long-Sleeve Cotton Jersey Polo"
+        },
+        {
+            "price": "$150.00",
+            "designer": "POLO RALPH LAUREN",
+            "product_name": "Long-Sleeve Cotton Jersey Polo"
+        },
+        {
+            "price": "$1,795.00",
+            "designer": "KITON",
+            "product_name": "Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Wool & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$1,795.00",
+            "designer": "KITON",
+            "product_name": "Cashmere & Silk Blend Sweater"
+        },
+        {
+            "price": "$265.00",
+            "designer": "BELSTAFF",
+            "product_name": "Cotton Drawstring Hoodie"
+        },
+        {
+            "price": "$298.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Striped Cashmere Blend Sweater"
+        },
+        {
+            "price": "$168.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Long-Sleeve Cotton Polo"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Zip-Up Sweater"
+        },
+        {
+            "price": "$198.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Long-Sleeve Striped Knit T-Shirt"
+        },
+        {
+            "price": "$198.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Long-Sleeve Striped Knit T-Shirt"
+        },
+        {
+            "price": "$298.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "D\u00e9grad\u00e9 Cotton Sweater"
+        },
+        {
+            "price": "$198.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Waffle Knit Cotton Henley"
+        },
+        {
+            "price": "$198.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Waffle Knit Cotton Henley"
+        },
+        {
+            "price": "$298.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "D\u00e9grad\u00e9 Cotton Sweater"
+        },
+        {
+            "price": "$358.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Button-Down Cardigan"
+        },
+        {
+            "price": "$98.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Printed Cotton Blend T-Shirt"
+        },
+        {
+            "price": "$128.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Printed Raglan T-Shirt"
+        },
+        {
+            "price": "$358.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Marled Knit Wool Blend Sweater"
+        },
+        {
+            "price": "$228.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Marled Knit Hoodie"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Zip-Up Wool Blend Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$995.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool & Cashmere Blend Cardigan"
+        },
+        {
+            "price": "$3,395.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Turtleneck Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Raglan Sleeve Sweater"
+        },
+        {
+            "price": "$1,195.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$398.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Wool Blend Racing Jacket"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Striped Henley Sweater"
+        },
+        {
+            "price": "$358.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Marled Knit Wool Blend Sweater"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Zip-Up Cotton Blend Hoodie"
+        },
+        {
+            "price": "$245.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$225.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Cotton Blend Sweater"
+        },
+        {
+            "price": "$325.00",
+            "designer": "BOSS GREEN",
+            "product_name": "Performance Hoodie"
+        },
+        {
+            "price": "$1,175.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Wool & Cashmere Blend Sweater"
+        },
+        {
+            "price": "$210.00",
+            "designer": "REIGNING CHAMP",
+            "product_name": "Cotton Blend Hoodie"
+        },
+        {
+            "price": "$3,775.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cashmere Sweater"
+        },
+        {
+            "price": "$825.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton Jersey T-Shirt"
+        },
+        {
+            "price": "$278.00",
+            "designer": "JOHN VARVATOS STAR USA",
+            "product_name": "Wool Blend Henley Sweater"
+        },
+        {
+            "price": "$340.00",
+            "designer": "MONCLER",
+            "product_name": "Long-Sleeve Cotton Piqu\u00e9 Polo"
+        },
+        {
+            "price": "$2,125.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Silk & Cashmere Blend Knit"
+        },
+        {
+            "price": "$540.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Cable-Knit Sweater"
+        },
+        {
+            "price": "$2,995.00",
+            "designer": "TOM FORD",
+            "product_name": "Cashmere Blend Sweater"
+        },
+        {
+            "price": "$90.00",
+            "designer": "BENSON",
+            "product_name": "Printed Henley"
+        },
+        {
+            "price": "$405.00",
+            "designer": "DSQUARED2",
+            "product_name": "Crew Neck Sweatshirt"
+        },
+        {
+            "price": "$485.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Half-Zip Cotton Sweater"
+        },
+        {
+            "price": "$235.00",
+            "designer": "GRAN SASSO",
+            "product_name": "Cotton Piqu\u00e9 Polo"
+        },
+        {
+            "price": "$895.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton Knit Sweater"
+        },
+        {
+            "price": "$1,245.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$695.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Leather Elbow Patch Sweater"
+        },
+        {
+            "price": "$695.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "price": "$895.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Knitted Sweater"
+        },
+        {
+            "price": "$1,245.00",
+            "designer": "BRUNELLO CUCINELLI",
+            "product_name": "Textured Knit Sweater"
+        },
+        {
+            "price": "$165.00",
+            "designer": "PATRICK ASSARAF",
+            "product_name": "Pima Cotton Drawstring Hoodie"
+        },
+        {
+            "price": "$1,120.00",
+            "designer": "PAUL & SHARK",
+            "product_name": "Knit Wool Sweater Jacket"
+        }
+    ],
+    "Eddie Bauer": [
+        {
+            "price": "119.00\u00a0CAD",
+            "product_name": "MEN'S FIELD UTILITY CREW SWEATER"
+        },
+        {
+            "price": "189.00\u00a0CAD-209.00\u00a0CAD",
+            "product_name": "MEN'S SNOW BRIDGE CARDIGAN SWEATER"
+        },
+        {
+            "reviews": "\u00a0(41)",
+            "rating": "4.7",
+            "price": "90.00\u00a0CAD-100.00\u00a0CAD",
+            "product_name": "MEN'S SIGNATURE COTTON HENLEY SWEATER"
+        },
+        {
+            "price": "155.00\u00a0CAD",
+            "product_name": "MEN'S FIELD SWEATER"
+        },
+        {
+            "price": "99.00\u00a0CAD",
+            "product_name": "MEN'S FAIR ISLE CREW SWEATER"
+        },
+        {
+            "reviews": "\u00a0(19)",
+            "rating": "4.1",
+            "price": "119.00\u00a0CAD-129.00\u00a0CAD",
+            "product_name": "MEN'S LONG-SLEEVE SIDECUT 1/4-ZIP SWEATER"
+        },
+        {
+            "reviews": "\u00a0(29)",
+            "rating": "4",
+            "price": "75.00\u00a0CAD-85.00\u00a0CAD",
+            "product_name": "MEN'S TALUS V-NECK SWEATER"
+        },
+        {
+            "reviews": "\u00a0(28)",
+            "rating": "4.8",
+            "price": "90.00\u00a0CAD-100.00\u00a0CAD",
+            "product_name": "MEN'S TALUS TEXTURED CREWNECK SWEATER"
+        },
+        {
+            "reviews": "\u00a0(37)",
+            "rating": "4.6",
+            "price": "90.00\u00a0CAD-100.00\u00a0CAD",
+            "product_name": "MEN'S SIGNATURE COTTON 1/4-ZIP SWEATER"
+        },
+        {
+            "reviews": "\u00a0(49)",
+            "rating": "4.7",
+            "price": "75.00\u00a0CAD-85.00\u00a0CAD",
+            "product_name": "MEN'S SIGNATURE COTTON CREW SWEATER"
+        },
+        {
+            "reviews": "\u00a0(21)",
+            "rating": "4.4",
+            "price": "90.00\u00a0CAD-100.00\u00a0CAD",
+            "product_name": "MEN'S TALUS 1/4-ZIP SWEATER"
+        },
+        {
+            "reviews": "\u00a0(11)",
+            "rating": "5",
+            "price": "155.00\u00a0CAD",
+            "product_name": "MEN'S INTERLODGE CARDIGAN SWEATER"
+        },
+        {
+            "reviews": "\u00a0(30)",
+            "rating": "4.6",
+            "price": "99.00\u00a0CAD-119.00\u00a0CAD",
+            "product_name": "MEN'S TALUS TEXTURED 1/4-ZIP SWEATER"
+        },
+        {
+            "reviews": "\u00a0(6)",
+            "rating": "4.5",
+            "price": "119.00\u00a0CAD",
+            "product_name": "MEN'S INTERLODGE PULLOVER SWEATER"
+        },
+        {
+            "reviews": "\u00a0(11)",
+            "rating": "4.1",
+            "price": "129.00\u00a0CAD-149.00\u00a0CAD",
+            "product_name": "MEN'S CATALYST VILOFT/CASHMERE 1/4-ZIP SWEATER"
+        },
+        {
+            "reviews": "\u00a0(29)",
+            "rating": "4.6",
+            "price": "95.00\u00a0CAD-105.00\u00a0CAD",
+            "product_name": "MEN'S SIGNATURE COTTON VARIEGATED 1/4-ZIP MOCK SWEATER"
+        },
+        {
+            "price": "129.00\u00a0CAD",
+            "product_name": "MEN'S INTERLODGE MOCK CARDIGAN"
+        },
+        {
+            "reviews": "\u00a0(3)",
+            "rating": "5",
+            "price": "119.00\u00a0CAD-129.00\u00a0CAD",
+            "product_name": "MEN'S CATALYST VILOFT/CASHMERE CREWNECK SWEATER"
+        },
+        {
+            "price": "119.00\u00a0CAD-129.00\u00a0CAD",
+            "product_name": "MEN'S SKI STRIPE 1/4-ZIP SWEATER"
+        }
+    ],
+    "Gap": [
+        {
+            "price": "CA$88.00",
+            "product_name": "Fair isle tie-belt cardigan"
+        },
+        {
+            "price": "CA$88.00",
+            "product_name": "Cable-knit cardigan"
+        },
+        {
+            "price": "CA$74.95",
+            "product_name": "Merino wool cardigan"
+        },
+        {
+            "price": "CA$74.95",
+            "product_name": "Merino wool cardigan"
+        },
+        {
+            "price": "CA$74.95",
+            "product_name": "Merino wool cardigan"
+        },
+        {
+            "price": "CA$74.95",
+            "product_name": "Merino wool cardigan"
+        },
+        {
+            "price": "CA$138.00",
+            "product_name": "Ribbed wool blend tie-belt cardigan"
+        },
+        {
+            "price": "CA$88.00",
+            "product_name": "Stand collar fleece jacket"
+        },
+        {
+            "price": "CA$88.00",
+            "product_name": "Stand collar fleece jacket"
+        },
+        {
+            "price": "CA$88.00",
+            "product_name": "Textured shawl-collar cardigan"
+        },
+        {
+            "price": "CA$88.00",
+            "product_name": "Textured shawl-collar cardigan"
+        },
+        {
+            "price": "CA$64.95",
+            "product_name": "Lightweight cardigan"
+        },
+        {
+            "price": "CA$88.00",
+            "product_name": "Cable-knit cardigan"
+        },
+        {
+            "price": "CA$88.00",
+            "product_name": "Cable-knit cardigan"
+        },
+        {
+            "price": "CA$64.95",
+            "product_name": "Merino wool blend crewneck sweater"
+        },
+        {
+            "price": "CA$64.95",
+            "product_name": "Cable-knit crewneck sweater"
+        }
+    ],
+    "Armani Exchange": [
+        {
+            "price": "177.00",
+            "name": "NORDIC INTARSIA FULL-ZIP SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK MERINO V-NECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "GEOMETRIC INTARSIA SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "146.00",
+            "name": "NORDIC INTARSIA CREWNECK SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "TONAL DIAMOND-STITCH SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK TURTLENECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "MARLED SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "146.00",
+            "name": "PARTY INTARSIA SWEATER"
+        },
+        {
+            "price": "146.00",
+            "name": "NORDIC INTARSIA CREWNECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "GEOMETRIC INTARSIA TURTLENECK SWEATER"
+        },
+        {
+            "price": "177.00",
+            "name": "NORDIC INTARSIA FULL-ZIP SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "GEOMETRIC INTARSIA SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "MARLED SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "GEOMETRIC INTARSIA TURTLENECK SWEATER"
+        },
+        {
+            "price": "168.00",
+            "name": "CONTRAST BAND SWEATER JACKET"
+        },
+        {
+            "price": "146.00",
+            "name": "NORDIC INTARSIA CREWNECK SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK MERINO CREWNECK SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "LAYERING"
+        },
+        {
+            "price": "111.00",
+            "name": "CLASSIC LAYERING CREWNECK SWEATER"
+        },
+        {
+            "price": "177.00",
+            "name": "NORDIC INTARSIA FULL-ZIP SWEATER"
+        },
+        {
+            "price": "159.00",
+            "name": "WOOL-BLEND CABLE TURTLENECK"
+        },
+        {
+            "price": "159.00",
+            "name": "LAYERING"
+        },
+        {
+            "price": "146.00",
+            "name": "COLORBLOCK SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK TURTLENECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "CHEST STRIPE CREWNECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "CAMO JACQUARD CREWNECK SWEATER"
+        },
+        {
+            "price": "146.00",
+            "name": "HIGH SHINE ALLOVER AX SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK MERINO V-NECK SWEATER"
+        },
+        {
+            "price": "146.00",
+            "name": "REFLECTIVE PRINT CREWNECK SWEATER"
+        },
+        {
+            "price": "164.00",
+            "name": "A|X INTARSIA SWEATER"
+        },
+        {
+            "price": "146.00",
+            "name": "REFLECTIVE PRINT CREWNECK SWEATER"
+        },
+        {
+            "price": "164.00",
+            "name": "A|X INTARSIA SWEATER"
+        },
+        {
+            "price": "164.00",
+            "name": "A|X INTARSIA SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "CAMO JACQUARD CREWNECK SWEATER"
+        },
+        {
+            "price": "177.00",
+            "name": "PIECED CABLE CREWNECK SWEATER"
+        },
+        {
+            "price": "177.00",
+            "name": "PIECED CABLE CREWNECK SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK MERINO CREWNECK SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK MERINO CREWNECK SWEATER"
+        },
+        {
+            "price": "146.00",
+            "name": "BUBBLE-STTICH CREWNECK SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "COLORBLOCK MERINO V-NECK SWEATER"
+        },
+        {
+            "price": "164.00",
+            "name": "COLORBLOCK ZIGZAG CABLE TURTLENECK"
+        },
+        {
+            "price": "146.00",
+            "name": "BUBBLE-STTICH CREWNECK SWEATER"
+        },
+        {
+            "price": "164.00",
+            "name": "COLORBLOCK ZIGZAG CABLE TURTLENECK"
+        },
+        {
+            "price": "124.00",
+            "name": "DOUBLE-KNIT LOGO SWEATER"
+        },
+        {
+            "price": "173.00",
+            "name": "LOGO HOODIE SWEATER"
+        },
+        {
+            "price": "186.00",
+            "name": "STRIPED COLORBLOCK HOODIE SWEATER"
+        },
+        {
+            "price": "248.00",
+            "name": "HIDEAWAY HOOD SWEATER JACKET"
+        },
+        {
+            "price": "212.00",
+            "name": "COLORBLOCK SHAWL COLLAR CARDIGAN"
+        },
+        {
+            "price": "212.00",
+            "name": "COLORBLOCK SHAWL COLLAR CARDIGAN"
+        },
+        {
+            "price": "195.00",
+            "name": "SPORTY ZIP-UP HOODIE SWEATER"
+        },
+        {
+            "price": "195.00",
+            "name": "PIECED DROP-SHOULDER CARDIGAN"
+        },
+        {
+            "price": "195.00",
+            "name": "PIECED DROP-SHOULDER CARDIGAN"
+        },
+        {
+            "price": "248.00",
+            "name": "HIDEAWAY HOOD SWEATER JACKET"
+        },
+        {
+            "price": "142.00",
+            "name": "CONTRAST ZIPPER SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "142.00",
+            "name": "CONTRAST ZIPPER SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "159.00",
+            "name": "MARLED SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "159.00",
+            "name": "MARLED SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "159.00",
+            "name": "MARLED SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "GEOMETRIC INTARSIA POLO SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "DOUBLE-KNIT LOGO SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "GEOMETRIC INTARSIA POLO SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "GEOMETRIC INTARSIA POLO SWEATER"
+        },
+        {
+            "price": "186.00",
+            "name": "STRIPED COLORBLOCK HOODIE SWEATER"
+        },
+        {
+            "price": "173.00",
+            "name": "LOGO HOODIE SWEATER"
+        },
+        {
+            "price": "173.00",
+            "name": "FEEDER STRIPE LOGO ILLUSION SWEATER"
+        },
+        {
+            "price": "111.00",
+            "name": "GEOMETRIC TEXTURED KNIT V-NECK SWEATER"
+        },
+        {
+            "price": "111.00",
+            "name": "GEOMETRIC TEXTURED KNIT V-NECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "SHOULDER ZIP V-NECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "TRICOLOR MARL V-NECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "FEEDER STRIPE OPTICAL CREWNECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "SHOULDER ZIP V-NECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "TRICOLOR MARL V-NECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "CHEST STRIPE CREWNECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "CHEST STRIPE CREWNECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "SHOULDER ZIP V-NECK SWEATER"
+        },
+        {
+            "price": "142.00",
+            "name": "CONTRAST ZIPPER SHAWL-COLLAR SWEATER"
+        },
+        {
+            "price": "124.00",
+            "name": "ANGULAR EAGLE CREWNECK SWEATER"
+        },
+        {
+            "price": "173.00",
+            "name": "FEEDER STRIPE LOGO ILLUSION SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "FEEDER STRIPE OPTICAL CREWNECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "FEEDER STRIPE OPTICAL CREWNECK SWEATER"
+        },
+        {
+            "price": "133.00",
+            "name": "SHOULDER ZIP V-NECK SWEATER"
+        },
+        {
+            "price": "111.00",
+            "name": "GEOMETRIC TEXTURED KNIT V-NECK SWEATER"
+        },
+        {
+            "price": "111.00",
+            "name": "GEOMETRIC TEXTURED KNIT V-NECK SWEATER"
+        },
+        {
+            "price": "111.00",
+            "name": "GEOMETRIC TEXTURED KNIT V-NECK SWEATER"
+        }
+    ],
+    "Banana Republic": [
+        {
+            "price": "CA$110.00",
+            "product_name": "Extra-Fine Italian Merino Birdseye Crew"
+        },
+        {
+            "price": "CA$110.00",
+            "product_name": "Extra-Fine Italian Merino Birdseye Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$124.00",
+            "product_name": "Extra-Fine Italian Merino Stripe Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Stripe Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Stripe Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        },
+        {
+            "price": "CA$95.00",
+            "product_name": "Extra-Fine Italian Merino Crew"
+        }
+    ],
+    "Zara": [
+        {
+            "price": "79.90 CAD",
+            "product_name": "ALPACA WOOL JERSEY"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "COLOURFUL JACQUARD SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "KNIT CARDIGAN WITH STRIPED DETAIL"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "KNIT CARDIGAN WITH STRIPED DETAIL"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT SWEATER WITH SLOGAN"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": ""
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "CHECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": ""
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "CHECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "OVERSIZED KNIT ALPACA CARDIGAN"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "OVERSIZED KNIT ALPACA CARDIGAN"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "BOUCL\u00c9 KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "MELANGE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "FLECKED KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "FLECKED KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "FLECKED KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "OPEN JACKET"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "COMBINED FAUX SUEDE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PINSTRIPE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "LONG LETTERS SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "OVERSIZED LETTERS SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "MELANGE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "CAMOUFLAGE JACKET"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "TWIST KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CROPPED KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "FAUX SUEDE JACKET"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN V-NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN V-NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN V-NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "FAUX SHEARLING HOODED JACKET"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "FAUX SHEARLING HOODED JACKET"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "PLAIN V-NECK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "RIBBED JERSEY"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "EVENING SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "TEXTURED POLO SHIRT"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "19.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "19.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "19.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "19.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH BROKEN STRIPES"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH BROKEN STRIPES"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "COTTON SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "COTTON SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "COTTON SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "TWIST KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH BROKEN STRIPES"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH BROKEN STRIPES"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CROPPED KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT BOMBER JACKET"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT BOMBER JACKET"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CROPPED KNIT SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CROPPED KNIT SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "COLOURFUL JACQUARD SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "WOOL POLO NECK SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CROPPED KNIT SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "BOUCL\u00c9 KNIT SWEATER"
+        },
+        {
+            "price": "119.00 CAD",
+            "product_name": "OVERSIZED CABLE-KNIT SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CROPPED KNIT SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "MOHAIR SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "MULTICOLORED SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "STUDIO EMBELLISHED SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "STUDIO EMBELLISHED SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "CASHMERE SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "ALPACA WOOL JERSEY"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "CASHMERE SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "CASHMERE SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "CASHMERE SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "CASHMERE SWEATER"
+        },
+        {
+            "price": "119.00 CAD",
+            "product_name": "OVERSIZED CABLE-KNIT SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "BOUCL\u00c9 KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "BOUCL\u00c9 KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "CHUNKY KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CROPPED KNIT SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "OVERSIZED KNIT ALPACA CARDIGAN"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "OVERSIZED KNIT ALPACA CARDIGAN"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "STUDIO OVERSIZED CARDIGAN"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "119.00 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "119.00 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "MULTICOLORED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "159.00 CAD",
+            "product_name": "CASHMERE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HOODED JACKET WITH SLOGAN"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "SWEATER WITH MESH SLEEVES"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH GOLD STRIPES"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BASIC CARDIGAN"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BASIC CARDIGAN"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BASIC CARDIGAN"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT BLAZER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH CONTRASTING FABRIC"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH CONTRASTING FABRIC"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "CHENILLE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "CHENILLE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "V-NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "CHENILLE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "V-NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "V-NECK SWEATER"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "JOIN LIFE COLLECTION CARDIGAN"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BASIC CARDIGAN"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "JOIN LIFE COLLECTION CARDIGAN"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "CABLE KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SOLID CARDIGAN"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SOLID CARDIGAN"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "PLUSH CAPE"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "DETAILED JACKET"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "LONG LETTERS SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BROCADE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH CORDS"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH CORDS"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KIMONO STYLE BLAZER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "RIPPED SWEATER"
+        },
+        {
+            "price": "25.99 CAD",
+            "product_name": "VERTICAL SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH ZIPS"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH SLEEVE ZIPS"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH FRONT POCKET"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "KNIT CARDIGAN WITH HOOD"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "KNIT CARDIGAN WITH HOOD"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH BUTTONS"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH BUTTONS"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNITTED WAISTCOAT"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNIT VEST"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNITTED WAISTCOAT"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNIT VEST"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "GOLD TEXTURED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "JACQUARD SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "JACQUARD SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "GEOMETRIC SHAPES SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "GEOMETRIC SHAPES SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "RIBBED HIGH NECK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "RIBBED HIGH NECK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "RIBBED HIGH NECK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "RIBBED HIGH NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "CHECK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "SWEATER WITH EYELETS"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "CHECK SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "ANIMAL PRINT SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "ANIMAL PRINT SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "TECHNICAL SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "TECHNICAL SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "OTTOMAN SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "OTTOMAN SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "V-NECK SWEATER WITH DROP SHOULDER SLEEVES"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "OTTOMAN SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH CARDIGAN"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH CARDIGAN"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "BASIC CARDIGAN"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "JOIN LIFE COLLECTION SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "JOIN LIFE COLLECTION SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "JOIN LIFE COLLECTION SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "JOIN LIFE COLLECTION SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "V-NECK SWEATER WITH DROP SHOULDER SLEEVES"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "SWEATER WITH STRIPE"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "COLOR BLOCK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "29.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "29.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "29.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "ZIPPED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "ROUND NECK SWEATER"
+        },
+        {
+            "price": "29.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "ZIPPED CARDIGAN WITH HIGH NECK"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "CLASSIC KNIT BLAZER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "ZIPPED CARDIGAN WITH HIGH NECK"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "ROUND NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "ROUND NECK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "ZIPPED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SHAWL COLLAR SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SHAWL COLLAR SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SHAWL COLLAR SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "OPEN JACKET"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "FADED OVERSIZED SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "FADED OVERSIZED SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "FADED OVERSIZED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "V-NECK SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "CAMOUFLAGE TEXTURED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "CAMOUFLAGE SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "TWISTED KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "STRIPED SWEATER WITH ZIP"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "STRIPED SWEATER WITH ZIP"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC MERINO SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "OVERSIZED STRIPED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH BAND DETAIL"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "SWEATER WITH BAND DETAIL"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "STRIPED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "STRIPED TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "TWISTED KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "TWISTED KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "EMBROIDERED SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "TWISTED KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "EMBROIDERED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "EMBROIDERED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "UNREST COLLECTION SWEATER WITH CORDS"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "29.90 CAD",
+            "product_name": "RIPPED SWEATER"
+        },
+        {
+            "price": "29.90 CAD",
+            "product_name": "RIPPED SWEATER"
+        },
+        {
+            "price": "29.90 CAD",
+            "product_name": "RIPPED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "STRIPED TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "BRIOCHE STITCH CARDIGAN"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "KNIT POLO SHIRT"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "KNIT POLO SHIRT"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "ROUND NECK SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "KNIT POLO SHIRT"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "KNIT POLO SHIRT"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "JACQUARD POLO SHIRT"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "JACQUARD POLO SHIRT"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "MILANO KNIT SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "CHECK WAISTCOAT"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "UNREST COLLECTION SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "V-NECK SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "UNREST COLLECTION SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "UNREST COLLECTION SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "UNREST COLLECTION SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FLECKED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "V-NECK SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "V-NECK SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "STAINED SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "SHORT SLEEVE SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "SHORT SLEEVE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "COTTON INDIGO KIMONO"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "CHECKED SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "SWEATER WITH CONTRASTING T-SHIRT"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "RIBBED POLO SHIRT"
+        },
+        {
+            "price": "79.90 CAD",
+            "product_name": "STRIPED STUDIO SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "STUDIO WAISTCOAT"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "SWEATER WITH CONTRASTING T-SHIRT"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "SWEATER WITH CONTRASTING T-SHIRT"
+        },
+        {
+            "price": "19.90 CAD",
+            "product_name": "PLAIN KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "19.90 CAD",
+            "product_name": "PLAIN KNIT SWEATER"
+        },
+        {
+            "price": "19.90 CAD",
+            "product_name": "PLAIN KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "SWEATER WITH CONTRASTING T-SHIRT"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "25.90 CAD",
+            "product_name": "FINE KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "MARL STRIPED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "HENLEY SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "HENLEY SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "HENLEY SWEATER WITH TEXTURED WEAVE"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "OVERSIZED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "TWIST KNIT SWEATER"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC EXTRAFINE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "ZIPPED SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "SWEATER WITH BAND DETAIL"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC EXTRAFINE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC EXTRAFINE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC EXTRAFINE SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "BASIC SOLID SWEATER"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "TEXTURED WEAVE ARGYLE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "SLUB KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "SLUB KNIT SWEATER"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "LAMBSWOOL SWEATER"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "LAMBSWOOL SWEATER"
+        },
+        {
+            "price": "45.99 CAD",
+            "product_name": "SHAWL COLLAR SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "BRIOCHE STITCH SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "POLO NECK SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "BASIC WOOL SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "MOCK LAYER SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "MOCK LAYER SWEATER"
+        },
+        {
+            "price": "39.90 CAD",
+            "product_name": "CAMOUFLAGE SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "SLUB KNIT SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "BASIC VISCOSE SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "MARL STRIPED SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "TWIST KNIT SWEATER"
+        },
+        {
+            "price": "49.90 CAD",
+            "product_name": "TWIST KNIT SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "MILITARY SWEATER WITH POCKET"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "RIBBED SWEATER"
+        },
+        {
+            "price": "89.90 CAD",
+            "product_name": "OVERSIZED CARDIGAN"
+        },
+        {
+            "price": "45.99 CAD",
+            "product_name": "SHAWL COLLAR SWEATER"
+        },
+        {
+            "price": "45.99 CAD",
+            "product_name": "KNIT CARDIGAN"
+        },
+        {
+            "price": "35.99 CAD",
+            "product_name": "BASIC WOOL SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "TEXTURED WEAVE SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "KNIT SWEATER"
+        },
+        {
+            "price": "45.90 CAD",
+            "product_name": "HIGH NECK SWEATER"
+        },
+        {
+            "price": "35.90 CAD",
+            "product_name": "VISCOSE SWEATER"
+        },
+        {
+            "price": "59.90 CAD",
+            "product_name": "SWEATER WITH EYELETS AND CORDS"
+        }
+    ],
+    "Le Chateau": [
+        {
+            "original price": "\u00a0$129.95",
+            "product_name": "Knit Notch Collar Blazer"
+        },
+        {
+            "original price": "\u00a0$129.95",
+            "product_name": "Knit Notch Collar Blazer"
+        },
+        {
+            "original price": "\u00a0$129.95",
+            "product_name": "Knit Notch Collar Blazer"
+        },
+        {
+            "original price": "\u00a0$89.95",
+            "product_name": "Cotton Shawl Collar Cardigan"
+        },
+        {
+            "original price": "\u00a0$49.95",
+            "product_name": "Fair Isle Wool Blend Crew Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Textured Stripe Cotton Crew Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Textured Cotton Crew Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Textured Stripe Cotton Crew Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$69.95",
+            "product_name": "Two-Tone Cotton Crew Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Textured Cotton Crew Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Knit Turtleneck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Colour Block Cotton Shawl Collar Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Cotton Turtleneck Sweater"
+        },
+        {
+            "original price": "\u00a0$69.95",
+            "product_name": "Argyle Print Cotton V-Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Cotton V-Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Viscose Blend V-Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Knit Button-Front Cardigan"
+        },
+        {
+            "original price": "\u00a0$95.00",
+            "product_name": "Rib Cotton Zip-Front Cardigan"
+        },
+        {
+            "original price": "\u00a0$49.95",
+            "product_name": "Cut & Sew Knit Henley Top"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Cotton Shawl Collar Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$69.95",
+            "sale price": "Now \u00a0$49.99",
+            "product_name": "Stripe Wool Blend Crew Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$89.95",
+            "sale price": "Now \u00a0$69.99",
+            "product_name": "Knit Shawl Collar Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$59.95",
+            "sale price": "Now \u00a0$39.99",
+            "product_name": "Textured Stripe Crew Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$69.95",
+            "product_name": "Cotton Shawl Collar Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$69.95",
+            "sale price": "Now \u00a0$49.99",
+            "product_name": "Check Print Yarn Crew Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$89.95",
+            "sale price": "Now \u00a0$69.99",
+            "product_name": "Stripe Knit Shawl Collar Sweater"
+        },
+        {
+            "original price": "\u00a0$110.00",
+            "product_name": "Fair Isle Cotton Shawl Collar Cardigan"
+        },
+        {
+            "original price": "\u00a0$69.95",
+            "product_name": "Colour Block Cotton Shawl Collar Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Knit V-Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$59.95",
+            "sale price": "Now \u00a0$39.99",
+            "product_name": "Cut & Sew Knit Mock Neck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Knit Turtleneck Sweater"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Knit Button-Front Cardigan"
+        },
+        {
+            "original price": "\u00a0$89.95",
+            "product_name": "Cotton Mock Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$89.95",
+            "sale price": "Now \u00a0$69.99",
+            "product_name": "Textured Knit Turtleneck Sweater"
+        },
+        {
+            "original price": "\u00a0$69.95",
+            "product_name": "Cotton Mock Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$29.95",
+            "sale price": "Now \u00a0$19.99",
+            "product_name": "Cotton Jersey Turtleneck Top"
+        },
+        {
+            "original price": "\u00a0$95.00",
+            "product_name": "Cotton Mock Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$79.95",
+            "sale price": "Now \u00a0$59.99",
+            "product_name": "Textured Cotton Zip-Front Sweater"
+        },
+        {
+            "original price": "\u00a0$110.00",
+            "product_name": "Textured Cotton Shawl Collar Cardigan"
+        },
+        {
+            "original price": "Orig. \u00a0$89.95",
+            "sale price": "Now \u00a0$69.99",
+            "product_name": "Textured Cotton Blend Zip-Front Hoodie"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Rayon Blend Button-Front Cardigan"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Rayon Blend Button-Front Cardigan"
+        },
+        {
+            "original price": "\u00a0$59.95",
+            "product_name": "Rayon Blend V-Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$59.95",
+            "sale price": "Now \u00a0$39.99",
+            "product_name": "Birdseye Cotton Crew Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$69.95",
+            "sale price": "Now \u00a0$39.99",
+            "product_name": "Knit Henley Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$69.95",
+            "sale price": "Now \u00a0$49.99",
+            "product_name": "Two-Tone Cotton Henley Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$69.95",
+            "sale price": "Now \u00a0$39.99",
+            "product_name": "Stripe Cotton Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$49.95",
+            "sale price": "Now \u00a0$29.99",
+            "product_name": "Cotton Blend V-Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$69.95",
+            "sale price": "Now \u00a0$39.99",
+            "product_name": "Cotton Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$89.95",
+            "sale price": "Now \u00a0$59.99",
+            "product_name": "Cotton Shawl Collar Cardigan"
+        },
+        {
+            "original price": "Orig. \u00a0$49.95",
+            "sale price": "Now \u00a0$29.99",
+            "product_name": "Cotton Blend V-Neck Sweater"
+        },
+        {
+            "original price": "Orig. \u00a0$69.95",
+            "sale price": "Now \u00a0$39.99",
+            "product_name": "Stripe Cotton Crew Neck Sweater"
+        }
+    ],
+    "Club Monaco": [
+        {
+            "price": "$149.50",
+            "product_name": "JAXON CREW SWEATER"
+        },
+        {
+            "price": "$139.50",
+            "product_name": "SOFT WOOL CREW"
+        },
+        {
+            "price": "$149.50",
+            "product_name": "FELTED STRIPE MOCKNECK"
+        },
+        {
+            "price": "$179.50",
+            "product_name": "COLORBLOCK BUTTON CREW"
+        },
+        {
+            "price": "$229.00",
+            "product_name": "PLAID BRUSH CREW"
+        },
+        {
+            "price": "$229.00",
+            "product_name": "TEXTURED VARSITY BOMBER"
+        },
+        {
+            "price": "$149.50",
+            "product_name": "MERINO TWILL SWEATER"
+        },
+        {
+            "price": "$169.50",
+            "product_name": "SPACE-DYED TURTLENECK"
+        },
+        {
+            "price": "$179.50",
+            "product_name": "BOUCLE HOODIE"
+        },
+        {
+            "price": "$159.50",
+            "product_name": "DOUBLE-KNIT STRIPE ROLLNECK"
+        },
+        {
+            "price": "$159.50",
+            "product_name": "MERINO QUARTER-ZIP SWEATER"
+        },
+        {
+            "price": "$149.50",
+            "product_name": "MERINO RAGLAN MOCKNECK"
+        },
+        {
+            "price": "$159.50",
+            "product_name": "MERINO FULL-ZIP HOODIE"
+        },
+        {
+            "price": "$139.00",
+            "product_name": "MERINO CARDIGAN"
+        },
+        {
+            "price": "$119.50",
+            "product_name": "MERINO CREW SWEATER"
+        },
+        {
+            "price": "$119.50",
+            "product_name": "MERINO STRIPE SWEATER"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "organization": "Gap",
+    "url": "http://www.gapcanada.ca/browse/category.do?cid=5180&departmentRedirect=true#pageId=0&department=75",
+    "click_path": [],
+    "target": {
+      "by": "class name",
+      "tag": "product-card--text"
+    },
+    "next_page_tag": {
+      "by": "",
+      "tag": ""
+    },
+    "tags": [
+      {
+        "key": "product_name",
+        "by": "xpath",
+        "tag": "./a/div[@class='product-card--name']"
+      },
+      {
+        "key": "price",
+        "by": "xpath",
+        "tag": "./div/div[1]/div/div[@class='product-card-price product-card--regular']"
+      }
+    ]
+  }

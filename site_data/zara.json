@@ -1,0 +1,25 @@
+{
+    "organization": "Zara",
+    "url": "https://www.zara.com/ca/en/man-knitwear-l681.html?v1=733867",
+    "click_path": [],
+    "target": {
+      "by": "css selector",
+      "tag": "div.product-info._product-info"
+    },
+    "next_page_tag": {
+      "by": "",
+      "tag": ""
+    },
+    "tags": [
+      {
+        "key": "product_name",
+        "by": "xpath",
+        "tag": "./div[@class='product-info-item product-info-item-name']/a[@class='name _item']"
+      },
+      {
+        "key": "price",
+        "by": "xpath",
+        "tag": "./div[@class='product-info-item product-info-item-price']/div[@class='price _product-price']"
+      }
+    ]
+  }

@@ -20,8 +20,9 @@ class Scraper:
         self.exclude_orgs = exclude_orgs
 
     def run(self):
-        for org, site_data in self.site_data_map.items():
+        for org, site_data in self.site_data_map.iteritems():
             if org not in self.exclude_orgs:
+                print(org)
                 site_scraped_data = []
                 self.site_data = site_data
                 self.driver.get(site_data['url'])
@@ -37,6 +38,7 @@ class Scraper:
         prod_elements = self.driver.find_elements(
             by=self.site_data['target']['by'],
             value=self.site_data['target']['tag'])
+        print(len(prod_elements))
         for prod_element in prod_elements:
             row = {}
             for tag_data in self.site_data['tags']:
@@ -51,13 +53,19 @@ class Scraper:
         return page_data
 
     def get_element(self, by, value, element=None):
-        try:
-            if element:
-                return element.find_element(by, value)
-            else:
-                return self.driver.find_element(by, value)
-        except Exception as e:
-            print(e, "by: ", by, "value: ", value)
+        if element:
+            sub_element = self.get_elements(by, value, element)                
+        else:
+            sub_element = self.get_elements(by, value, self.driver)
+        if not sub_element:
+            print("Element not found. By: ", by, ", value: ", value)
+        return sub_element
+
+    def get_elements(self, by, value, elementOrDriver):
+        sub_elements = elementOrDriver.find_elements(by, value)
+        if len(sub_elements) > 0:
+            return sub_elements[0]
+        else:
             return None
 
     def is_page_available_and_within_target(self):
@@ -66,7 +74,7 @@ class Scraper:
         tag = self.site_data['next_page_tag']['tag']
         if by and tag:
             next_page_link = self.get_element(by, tag)
-            if next_page_link.is_displayed() and self.current_page < self.max_pages:
+            if self.current_page < self.max_pages and next_page_link is not None and next_page_link.is_displayed():
                 next_page_link.click()
                 self.current_page += 1
                 is_page_available_and_within_target = True
@@ -79,10 +87,12 @@ class Scraper:
 
 
 site_data_map = {}
-for file_path in glob.glob("./site_data/banana_republic.json"):
+for file_path in glob.glob("./site_data/*.json"):
     json_data = json.load(open(file_path))
     site_data_map[json_data['organization']] = json_data
 
-scraper = Scraper(site_data_map=site_data_map, exclude_orgs=['Harry Rosen', 'Eddie Bauer'])
+scraper = Scraper(site_data_map=site_data_map, max_pages=26)
 scraper.run()
-print(scraper.complete_data_set)
+
+with open('result.json', 'w') as f:
+    json.dump(scraper.complete_data_set, f)

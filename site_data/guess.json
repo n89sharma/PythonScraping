@@ -1,0 +1,25 @@
+{
+    "organization": "Guess",
+    "url": "https://www.guess.ca/en/catalog/browse/men/sweaters/",
+    "click_path": [],
+    "target": {
+      "by": "css selector",
+      "tag": "div.productThumb.productHolder.row-item"
+    },
+    "next_page_tag": {
+      "by": "",
+      "tag": ""
+    },
+    "tags": [
+      {
+        "key": "product_name",
+        "by": "xpath",
+        "tag": "./div[@class='name label-plp']/a"
+      },
+      {
+        "key": "price",
+        "by": "xpath",
+        "tag": "./div[@class='price label-plp']/div[@class='regPrice']/span[@class='original']/span[@class='priceVal actual']"
+      }
+    ]
+  }
